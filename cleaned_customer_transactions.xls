@@ -1,0 +1,876 @@
+Transaction_ID,Customer_ID,Transaction_Date,Product_ID,Quantity_Purchased,Transaction_Value,Payment_Method,Delivery_Time,Customer_Rating,Customer_Comments,Is_Returned,Payment_Bank Transfer,Payment_Cash,Payment_Credit Card,Payment_PayPal,Return_Flag,Transaction_Year,High_Rating,Payment_Bank Transfer,Payment_Cash,Payment_Credit Card,Payment_PayPal,Payment_Bank Transfer,Payment_Cash,Payment_Credit Card,Payment_PayPal,Payment_Bank Transfer,Payment_Cash,Payment_Credit Card,Payment_PayPal
+2,1559,2023-01-02,143,0.0,127.44906454743156,PayPal,5.217630906118673,3.0,Bad,Yes,False,False,False,True,1,2023,0,False,False,False,True,False,False,False,True,False,False,False,True
+3,1629,2023-01-03,100,5.0,101.40380229887562,Credit Card,5.63251227533312,4.0,Good,No,False,False,True,False,0,2023,1,False,False,True,False,False,False,True,False,False,False,True,False
+4,1192,2023-01-04,166,5.0,113.08268244643708,Credit Card,5.256401781249425,5.0,,Yes,False,False,True,False,1,2023,1,False,False,True,False,False,False,True,False,False,False,True,False
+5,1835,2023-01-05,197,5.0,117.6136636166126,Cash,8.978123186561668,1.0,Average,No,False,True,False,False,0,2023,0,False,True,False,False,False,True,False,False,False,True,False,False
+6,1763,2023-01-06,112,3.0,84.48410699306348,Credit Card,3.6851486561790106,4.0,,Yes,False,False,True,False,1,2023,1,False,False,True,False,False,False,True,False,False,False,True,False
+7,1707,2023-01-07,115,6.0,120.8117262538012,Credit Card,2.357571695647422,2.0,,Yes,False,False,True,False,1,2023,0,False,False,True,False,False,False,True,False,False,False,True,False
+8,1359,2023-01-08,133,3.0,110.22471357178216,PayPal,6.300502402280342,4.0,,Yes,False,False,False,True,1,2023,1,False,False,False,True,False,False,False,True,False,False,False,True
+9,1009,2023-01-09,123,3.0,88.72146146487623,PayPal,4.705578047241389,2.0,Average,Yes,False,False,False,True,1,2023,0,False,False,False,True,False,False,False,True,False,False,False,True
+10,1723,2023-01-10,112,2.0,139.4326381252888,Bank Transfer,5.166682894468635,1.0,Average,Yes,True,False,False,False,1,2023,0,True,False,False,False,True,False,False,False,True,False,False,False
+11,1277,2023-01-11,105,1.0,97.3087417976582,Bank Transfer,2.494813663320854,3.0,Good,Yes,True,False,False,False,1,2023,0,True,False,False,False,True,False,False,False,True,False,False,False
+12,1754,2023-01-12,138,2.0,98.65002537652477,Cash,5.584499406986176,2.0,Good,Yes,False,True,False,False,1,2023,0,False,True,False,False,False,True,False,False,False,True,False,False
+13,1804,2023-01-13,101,3.0,95.53791083374016,Credit Card,5.806806922677417,4.0,Good,No,False,False,True,False,0,2023,1,False,False,True,False,False,False,True,False,False,False,True,False
+14,1599,2023-01-14,110,3.0,98.11124721058708,PayPal,0.249224926603218,1.0,Average,No,False,False,False,True,0,2023,0,False,False,False,True,False,False,False,True,False,False,False,True
+16,1472,2023-01-16,106,2.0,92.53796260436305,PayPal,9.210085013055895,1.0,Average,Yes,False,False,False,True,1,2023,0,False,False,False,True,False,False,False,True,False,False,False,True
+17,1600,2023-01-17,138,1.0,80.38232718785225,Cash,2.6465511573101512,1.0,,Yes,False,True,False,False,1,2023,0,False,True,False,False,False,True,False,False,False,True,False,False
+18,1396,2023-01-18,175,0.0,114.27728937055775,Credit Card,7.368124439593675,3.0,Bad,Yes,False,False,True,False,1,2023,0,False,False,True,False,False,False,True,False,False,False,True,False
+19,1314,2023-01-19,185,3.0,65.5587285272249,Credit Card,2.015808469373596,3.0,Average,Yes,False,False,True,False,1,2023,0,False,False,True,False,False,False,True,False,False,False,True,False
+20,1705,2023-01-20,150,1.0,142.57094102403357,Cash,5.232500333182525,2.0,Average,Yes,False,True,False,False,1,2023,0,False,True,False,False,False,True,False,False,False,True,False,False
+21,1486,2023-01-21,151,2.0,110.09302564880753,Cash,6.270726700519199,2.0,Bad,No,False,True,False,False,0,2023,0,False,True,False,False,False,True,False,False,False,True,False,False
+22,1551,2023-01-22,102,3.0,124.41600368584037,Bank Transfer,3.979656174457707,2.0,Average,No,True,False,False,False,0,2023,0,True,False,False,False,True,False,False,False,True,False,False,False
+23,1087,2023-01-23,176,5.0,99.6125518592487,Credit Card,3.668470947599408,5.0,Bad,No,False,False,True,False,0,2023,1,False,False,True,False,False,False,True,False,False,False,True,False
+24,1174,2023-01-24,129,5.0,99.6125518592487,PayPal,6.344775919565561,3.0,,No,False,False,False,True,0,2023,0,False,False,False,True,False,False,False,True,False,False,False,True
+26,1849,2023-01-26,172,1.0,96.48421456678096,Bank Transfer,0.4296464470422432,3.0,Average,No,True,False,False,False,0,2023,0,True,False,False,False,True,False,False,False,True,False,False,False
+27,1677,2023-01-27,105,6.0,87.7167498760771,Cash,2.3855979335501147,4.0,Average,No,False,True,False,False,0,2023,1,False,True,False,False,False,True,False,False,False,True,False,False
+28,1537,2023-01-28,153,3.0,99.20041006189516,PayPal,4.038957514132338,5.0,Average,No,False,False,False,True,0,2023,1,False,False,False,True,False,False,False,True,False,False,False,True
+29,1845,2023-01-29,165,1.0,100.80426367741744,Bank Transfer,6.453575986788199,5.0,Average,No,True,False,False,False,0,2023,1,True,False,False,False,True,False,False,False,True,False,False,False
+30,1072,2023-01-30,143,2.0,93.70098020229284,Cash,2.912643033052853,4.0,Average,Yes,False,True,False,False,1,2023,1,False,True,False,False,False,True,False,False,False,True,False,False
+32,1916,2023-02-01,162,4.0,74.81970157504117,Bank Transfer,3.498943192993768,2.0,Good,No,True,False,False,False,0,2023,0,True,False,False,False,True,False,False,False,True,False,False,False
+33,1115,2023-02-02,176,4.0,83.05712825179414,PayPal,1.59098757960558,5.0,Average,Yes,False,False,False,True,1,2023,1,False,False,False,True,False,False,False,True,False,False,False,True
+34,1976,2023-02-03,147,6.0,92.37960774380352,Bank Transfer,2.3367295562545123,3.0,Good,No,True,False,False,False,0,2023,0,True,False,False,False,True,False,False,False,True,False,False,False
+35,1755,2023-02-04,176,3.0,97.52839662414488,Cash,1.570921818968126,4.0,Bad,No,False,True,False,False,0,2023,1,False,True,False,False,False,True,False,False,False,True,False,False
+36,1709,2023-02-05,121,1.0,99.6125518592487,Bank Transfer,4.793688729710716,2.0,Bad,Yes,True,False,False,False,1,2023,0,True,False,False,False,True,False,False,False,True,False,False,False
+37,1847,2023-02-06,118,7.0,83.16393628628661,PayPal,7.288069060825886,2.0,Average,No,False,False,False,True,0,2023,0,False,False,False,True,False,False,False,True,False,False,False,True
+38,1431,2023-02-07,189,0.0,79.13493103957848,Credit Card,1.4869562339717248,5.0,Good,No,False,False,True,False,0,2023,1,False,False,True,False,False,False,True,False,False,False,True,False
+39,1448,2023-02-08,113,3.0,99.6125518592487,Cash,4.580992783213376,2.0,,No,False,True,False,False,0,2023,0,False,True,False,False,False,True,False,False,False,True,False,False
+40,1850,2023-02-09,194,3.0,89.28145948216407,PayPal,1.9650208329734455,2.0,Average,No,False,False,False,True,0,2023,0,False,False,False,True,False,False,False,True,False,False,False,True
+41,1099,2023-02-10,192,0.0,96.55089652820875,Bank Transfer,2.8466035661559705,1.0,Bad,No,True,False,False,False,0,2023,0,True,False,False,False,True,False,False,False,True,False,False,False
+42,1984,2023-02-11,185,5.0,89.56226782332953,Bank Transfer,5.445801309821321,4.0,Good,Yes,True,False,False,False,1,2023,1,True,False,False,False,True,False,False,False,True,False,False,False
+44,1755,2023-02-13,148,2.0,76.78966898790188,Cash,1.3035657717923277,3.0,Bad,Yes,False,True,False,False,1,2023,0,False,True,False,False,False,True,False,False,False,True,False,False
+46,1659,2023-02-15,126,3.0,97.85616709345518,PayPal,3.565091095687084,3.0,,No,False,False,False,True,0,2023,0,False,False,False,True,False,False,False,True,False,False,False,True
+47,1147,2023-02-16,130,3.0,118.662292425786,PayPal,4.660151089878095,3.0,Bad,No,False,False,False,True,0,2023,0,False,False,False,True,False,False,False,True,False,False,False,True
+48,1910,2023-02-17,105,1.0,82.1162829892445,PayPal,1.8810938664763648,5.0,,No,False,False,False,True,0,2023,1,False,False,False,True,False,False,False,True,False,False,False,True
+49,1423,2023-02-18,115,5.0,99.6125518592487,Bank Transfer,4.403457441975732,1.0,Good,Yes,True,False,False,False,1,2023,0,True,False,False,False,True,False,False,False,True,False,False,False
+51,1961,2023-02-20,137,2.0,99.6125518592487,Credit Card,4.7476344420642045,2.0,Good,No,False,False,True,False,0,2023,0,False,False,True,False,False,False,True,False,False,False,True,False
+52,1265,2023-02-21,159,2.0,78.01588249080956,Cash,6.88925931792439,5.0,Good,No,False,True,False,False,0,2023,1,False,True,False,False,False,True,False,False,False,True,False,False
+53,1697,2023-02-22,195,2.0,80.96688726163171,PayPal,9.496994369126677,1.0,,No,False,False,False,True,0,2023,0,False,False,False,True,False,False,False,True,False,False,False,True
+54,1639,2023-02-23,196,1.0,107.56050946987672,Credit Card,4.332947198397013,5.0,Good,Yes,False,False,True,False,1,2023,1,False,False,True,False,False,False,True,False,False,False,True,False
+55,1544,2023-02-24,180,5.0,119.92002281670818,Bank Transfer,7.594852278658326,4.0,Good,No,True,False,False,False,0,2023,1,True,False,False,False,True,False,False,False,True,False,False,False
+56,1543,2023-02-25,132,1.0,76.5548141301062,PayPal,5.335814054641922,4.0,Good,No,False,False,False,True,0,2023,1,False,False,False,True,False,False,False,True,False,False,False,True
+57,1714,2023-02-26,162,3.0,106.04765619355685,PayPal,4.466107408184967,4.0,Average,No,False,False,False,True,0,2023,1,False,False,False,True,False,False,False,True,False,False,False,True
+58,1244,2023-02-27,110,8.0,122.42989404026028,Credit Card,4.5479529155634895,2.0,Good,Yes,False,False,True,False,1,2023,0,False,False,True,False,False,False,True,False,False,False,True,False
+59,1151,2023-02-28,112,4.0,80.20584797374886,PayPal,5.141188470510803,1.0,Average,Yes,False,False,False,True,1,2023,0,False,False,False,True,False,False,False,True,False,False,False,True
+60,1675,2023-03-01,193,0.0,101.1654007728276,Credit Card,3.140152563165639,1.0,,Yes,False,False,True,False,1,2023,0,False,False,True,False,False,False,True,False,False,False,True,False
+61,1510,2023-03-02,164,4.0,99.91346992832386,Credit Card,6.195145621194799,4.0,Average,Yes,False,False,True,False,1,2023,1,False,False,True,False,False,False,True,False,False,False,True,False
+62,1459,2023-03-03,129,1.0,97.23785121931674,Cash,5.9823618986509945,4.0,Average,Yes,False,True,False,False,1,2023,1,False,True,False,False,False,True,False,False,False,True,False,False
+63,1882,2023-03-04,190,1.0,84.83632919603707,PayPal,1.8703725988367557,5.0,Average,Yes,False,False,False,True,1,2023,1,False,False,False,True,False,False,False,True,False,False,False,True
+64,1183,2023-03-05,122,1.0,113.40206041253757,PayPal,5.630918212635313,2.0,Average,No,False,False,False,True,0,2023,0,False,False,False,True,False,False,False,True,False,False,False,True
+65,1028,2023-03-06,119,1.0,99.6125518592487,Cash,8.445178443074079,2.0,Average,Yes,False,True,False,False,1,2023,0,False,True,False,False,False,True,False,False,False,True,False,False
+66,1802,2023-03-07,105,1.0,99.6125518592487,Credit Card,5.290412932657752,5.0,,Yes,False,False,True,False,1,2023,1,False,False,True,False,False,False,True,False,False,False,True,False
+67,1128,2023-03-08,136,2.0,111.18191349664843,PayPal,1.482544889681479,4.0,Average,Yes,False,False,False,True,1,2023,1,False,False,False,True,False,False,False,True,False,False,False,True
+68,1128,2023-03-09,183,5.0,92.92617978530586,Credit Card,4.6395521104197295,1.0,Bad,Yes,False,False,True,False,1,2023,0,False,False,True,False,False,False,True,False,False,False,True,False
+70,1053,2023-03-11,192,5.0,104.13340042823972,Cash,5.8025960887750765,2.0,,Yes,False,True,False,False,1,2023,0,False,True,False,False,False,True,False,False,False,True,False,False
+71,1901,2023-03-12,176,3.0,84.63922695857552,Cash,9.359007934288575,4.0,Average,Yes,False,True,False,False,1,2023,1,False,True,False,False,False,True,False,False,False,True,False,False
+72,1550,2023-03-13,126,8.0,82.3251819197967,Credit Card,7.173833730244305,3.0,Bad,Yes,False,False,True,False,1,2023,0,False,False,True,False,False,False,True,False,False,False,True,False
+73,1488,2023-03-14,183,4.0,105.8735189297251,Bank Transfer,8.019281601123266,5.0,,Yes,True,False,False,False,1,2023,1,True,False,False,False,True,False,False,False,True,False,False,False
+74,1756,2023-03-15,112,7.0,74.352343325361,Credit Card,5.1448353615506175,4.0,,Yes,False,False,True,False,1,2023,1,False,False,True,False,False,False,True,False,False,False,True,False
+75,1273,2023-03-16,107,3.0,72.8477762853464,Bank Transfer,4.934234748939857,1.0,Average,No,True,False,False,False,0,2023,0,True,False,False,False,True,False,False,False,True,False,False,False
+77,1388,2023-03-18,180,3.0,109.28362041049247,Bank Transfer,1.6632181282881606,3.0,,Yes,True,False,False,False,1,2023,0,True,False,False,False,True,False,False,False,True,False,False,False
+78,1617,2023-03-19,129,1.0,90.78468728912704,Credit Card,2.456180479098864,1.0,Bad,Yes,False,False,True,False,1,2023,0,False,False,True,False,False,False,True,False,False,False,True,False
+79,1042,2023-03-20,100,3.0,142.51839934319673,Bank Transfer,5.959727987941911,1.0,,Yes,True,False,False,False,1,2023,0,True,False,False,False,True,False,False,False,True,False,False,False
+80,1442,2023-03-21,187,6.0,110.60040382066217,PayPal,6.395715586776085,1.0,Good,Yes,False,False,False,True,1,2023,0,False,False,False,True,False,False,False,True,False,False,False,True
+81,1543,2023-03-22,179,3.0,65.50415035274506,Bank Transfer,4.300783832964328,5.0,Good,No,True,False,False,False,0,2023,1,True,False,False,False,True,False,False,False,True,False,False,False
+82,1888,2023-03-23,174,1.0,61.89542408208534,Cash,2.5571822323418814,5.0,Bad,No,False,True,False,False,0,2023,1,False,True,False,False,False,True,False,False,False,True,False,False
+83,1257,2023-03-24,103,3.0,98.5853332864136,Cash,4.6096873592264735,4.0,Bad,No,False,True,False,False,0,2023,1,False,True,False,False,False,True,False,False,False,True,False,False
+84,1321,2023-03-25,161,3.0,98.38931116211027,Bank Transfer,4.7531482403390095,3.0,Good,No,True,False,False,False,0,2023,0,True,False,False,False,True,False,False,False,True,False,False,False
+85,1999,2023-03-26,167,7.0,98.33271968744272,Bank Transfer,2.710504916297135,3.0,Good,No,True,False,False,False,0,2023,0,True,False,False,False,True,False,False,False,True,False,False,False
+87,1057,2023-03-28,173,6.0,141.1452988722752,Cash,2.563302521943436,2.0,Good,Yes,False,True,False,False,1,2023,0,False,True,False,False,False,True,False,False,False,True,False,False
+89,1870,2023-03-30,156,3.0,100.4363589762768,Cash,3.684336342273867,1.0,Good,Yes,False,True,False,False,1,2023,0,False,True,False,False,False,True,False,False,False,True,False,False
+90,1119,2023-03-31,162,3.0,93.515199432703,PayPal,4.970053855028467,3.0,Good,Yes,False,False,False,True,1,2023,0,False,False,False,True,False,False,False,True,False,False,False,True
+91,1779,2023-04-01,156,6.0,95.90554868418629,PayPal,0.6050736908653844,4.0,Good,Yes,False,False,False,True,1,2023,1,False,False,False,True,False,False,False,True,False,False,False,True
+92,1430,2023-04-02,148,1.0,119.0788816846235,Cash,10.180333660686744,4.0,,No,False,True,False,False,0,2023,1,False,True,False,False,False,True,False,False,False,True,False,False
+93,1082,2023-04-03,117,4.0,76.02043667252818,Credit Card,4.381058682873396,4.0,,No,False,False,True,False,0,2023,1,False,False,True,False,False,False,True,False,False,False,True,False
+94,1091,2023-04-04,157,5.0,55.11379505216546,Bank Transfer,6.517852216564658,2.0,Average,Yes,True,False,False,False,1,2023,0,True,False,False,False,True,False,False,False,True,False,False,False
+96,1398,2023-04-06,162,4.0,99.6125518592487,Bank Transfer,5.753461920904882,5.0,Bad,No,True,False,False,False,0,2023,1,True,False,False,False,True,False,False,False,True,False,False,False
+97,1611,2023-04-07,179,3.0,117.06702464133843,Cash,6.59884101876793,3.0,Bad,Yes,False,True,False,False,1,2023,0,False,True,False,False,False,True,False,False,False,True,False,False
+99,1908,2023-04-09,133,3.0,113.082120845443,Cash,4.007310906839614,3.0,Good,No,False,True,False,False,0,2023,0,False,True,False,False,False,True,False,False,False,True,False,False
+100,1633,2023-04-10,104,0.0,133.66779335172134,PayPal,3.9539444624794617,5.0,,No,False,False,False,True,0,2023,1,False,False,False,True,False,False,False,True,False,False,False,True
+101,1938,2023-04-11,116,0.0,99.6125518592487,Credit Card,6.636194823926957,4.0,,No,False,False,True,False,0,2023,1,False,False,True,False,False,False,True,False,False,False,True,False
+102,1084,2023-04-12,171,6.0,98.70315839988262,Credit Card,3.2838631413272807,4.0,,Yes,False,False,True,False,1,2023,1,False,False,True,False,False,False,True,False,False,False,True,False
+103,1203,2023-04-13,162,4.0,133.61019409119737,Cash,2.6912584104057635,5.0,Average,Yes,False,True,False,False,1,2023,1,False,True,False,False,False,True,False,False,False,True,False,False
+104,1324,2023-04-14,123,4.0,64.52546672879141,Credit Card,5.313635924140639,5.0,Average,No,False,False,True,False,0,2023,1,False,False,True,False,False,False,True,False,False,False,True,False
+105,1774,2023-04-15,191,1.0,98.08427634024731,Credit Card,1.3597493055315415,3.0,,Yes,False,False,True,False,1,2023,0,False,False,True,False,False,False,True,False,False,False,True,False
+106,1964,2023-04-16,107,4.0,119.25638796629111,Cash,1.5344431363972348,5.0,Average,Yes,False,True,False,False,1,2023,1,False,True,False,False,False,True,False,False,False,True,False,False
+107,1047,2023-04-17,122,5.0,94.11026588743417,Bank Transfer,2.854388915827176,3.0,Good,Yes,True,False,False,False,1,2023,0,True,False,False,False,True,False,False,False,True,False,False,False
+109,1131,2023-04-19,130,4.0,99.6125518592487,Bank Transfer,4.436290193611961,3.0,Average,No,True,False,False,False,0,2023,0,True,False,False,False,True,False,False,False,True,False,False,False
+110,1972,2023-04-20,180,3.0,99.6125518592487,Credit Card,4.62258421522856,1.0,Average,No,False,False,True,False,0,2023,0,False,False,True,False,False,False,True,False,False,False,True,False
+111,1868,2023-04-21,127,1.0,65.03512468897172,Bank Transfer,2.1505115816039204,2.0,Average,Yes,True,False,False,False,1,2023,0,True,False,False,False,True,False,False,False,True,False,False,False
+112,1180,2023-04-22,147,2.0,99.22104634668868,Cash,5.71733587410355,2.0,Bad,No,False,True,False,False,0,2023,0,False,True,False,False,False,True,False,False,False,True,False,False
+113,1846,2023-04-23,111,8.0,109.53223607160898,Bank Transfer,4.746395181793793,3.0,Bad,No,True,False,False,False,0,2023,0,True,False,False,False,True,False,False,False,True,False,False,False
+114,1143,2023-04-24,187,0.0,80.69645494455747,Credit Card,4.935425533475398,2.0,,No,False,False,True,False,0,2023,0,False,False,True,False,False,False,True,False,False,False,True,False
+115,1660,2023-04-25,178,0.0,103.2779624249774,Credit Card,6.508184335177626,3.0,,No,False,False,True,False,0,2023,0,False,False,True,False,False,False,True,False,False,False,True,False
+116,1227,2023-04-26,130,3.0,99.6125518592487,Cash,2.4934848234524583,5.0,Good,No,False,True,False,False,0,2023,1,False,True,False,False,False,True,False,False,False,True,False,False
+117,1954,2023-04-27,190,3.0,112.24608222713483,Cash,5.701560263245912,5.0,Average,No,False,True,False,False,0,2023,1,False,True,False,False,False,True,False,False,False,True,False,False
+118,1791,2023-04-28,134,3.0,85.0774337849638,PayPal,3.3614334560442485,2.0,,No,False,False,False,True,0,2023,0,False,False,False,True,False,False,False,True,False,False,False,True
+119,1719,2023-04-29,154,2.0,128.01804416698434,Credit Card,4.767958652923937,2.0,Average,Yes,False,False,True,False,1,2023,0,False,False,True,False,False,False,True,False,False,False,True,False
+121,1373,2023-05-01,135,4.0,99.6125518592487,Credit Card,5.606358279904533,1.0,,No,False,False,True,False,0,2023,0,False,False,True,False,False,False,True,False,False,False,True,False
+122,1853,2023-05-02,171,5.0,109.51843878299096,Bank Transfer,6.040537964194798,1.0,Average,Yes,True,False,False,False,1,2023,0,True,False,False,False,True,False,False,False,True,False,False,False
+123,1560,2023-05-03,159,4.0,76.80620162872248,Cash,4.392148351766585,4.0,,Yes,False,True,False,False,1,2023,1,False,True,False,False,False,True,False,False,False,True,False,False
+124,1305,2023-05-04,137,3.0,80.73596069129431,Bank Transfer,6.969008004111144,2.0,Good,No,True,False,False,False,0,2023,0,True,False,False,False,True,False,False,False,True,False,False,False
+125,1581,2023-05-05,168,3.0,93.66956736564563,Credit Card,6.9408412257752765,2.0,Good,No,False,False,True,False,0,2023,0,False,False,True,False,False,False,True,False,False,False,True,False
+126,1169,2023-05-06,153,0.0,64.0563481686066,Bank Transfer,4.995150104808422,3.0,Good,No,True,False,False,False,0,2023,0,True,False,False,False,True,False,False,False,True,False,False,False
+127,1675,2023-05-07,113,4.0,111.3463035456394,Cash,8.68724876429517,2.0,Good,Yes,False,True,False,False,1,2023,0,False,True,False,False,False,True,False,False,False,True,False,False
+128,1448,2023-05-08,119,2.0,101.90797279242682,Cash,3.4618461613858447,3.0,Good,No,False,True,False,False,0,2023,0,False,True,False,False,False,True,False,False,False,True,False,False
+129,1095,2023-05-09,108,4.0,135.0895362374505,PayPal,8.395503525379585,2.0,Average,Yes,False,False,False,True,1,2023,0,False,False,False,True,False,False,False,True,False,False,False,True
+130,1197,2023-05-10,196,2.0,103.6913863605768,Bank Transfer,3.769017681008121,3.0,Bad,No,True,False,False,False,0,2023,0,True,False,False,False,True,False,False,False,True,False,False,False
+131,1606,2023-05-11,181,2.0,88.82707583478545,Cash,2.8560272000371367,1.0,Good,No,False,True,False,False,0,2023,0,False,True,False,False,False,True,False,False,False,True,False,False
+132,1256,2023-05-12,169,5.0,99.6125518592487,Bank Transfer,9.156942572049616,5.0,Average,Yes,True,False,False,False,1,2023,1,True,False,False,False,True,False,False,False,True,False,False,False
+133,1881,2023-05-13,101,3.0,117.63913311091012,Cash,9.407139967744534,5.0,Average,Yes,False,True,False,False,1,2023,1,False,True,False,False,False,True,False,False,False,True,False,False
+134,1690,2023-05-14,129,3.0,91.29554975188984,PayPal,7.2012148949287305,2.0,,No,False,False,False,True,0,2023,0,False,False,False,True,False,False,False,True,False,False,False,True
+135,1292,2023-05-15,105,0.0,93.53223684689272,PayPal,5.714443421477549,1.0,Good,No,False,False,False,True,0,2023,0,False,False,False,True,False,False,False,True,False,False,False,True
+136,1930,2023-05-16,180,2.0,110.75759230804464,PayPal,6.531146147251667,5.0,,No,False,False,False,True,0,2023,1,False,False,False,True,False,False,False,True,False,False,False,True
+137,1816,2023-05-17,140,2.0,110.4325472916363,Credit Card,5.714794152839932,5.0,Average,Yes,False,False,True,False,1,2023,1,False,False,True,False,False,False,True,False,False,False,True,False
+139,1387,2023-05-19,130,2.0,81.44130763250178,Cash,5.712155689622682,5.0,,No,False,True,False,False,0,2023,1,False,True,False,False,False,True,False,False,False,True,False,False
+140,1610,2023-05-20,119,1.0,103.67898499925364,PayPal,2.0303041471315693,2.0,Good,No,False,False,False,True,0,2023,0,False,False,False,True,False,False,False,True,False,False,False,True
+141,1554,2023-05-21,104,2.0,66.75918853695671,Cash,4.30263697187096,1.0,Bad,No,False,True,False,False,0,2023,0,False,True,False,False,False,True,False,False,False,True,False,False
+142,1973,2023-05-22,120,1.0,80.11598604480007,Credit Card,3.8376749428054815,3.0,,No,False,False,True,False,0,2023,0,False,False,True,False,False,False,True,False,False,False,True,False
+143,1368,2023-05-23,174,1.0,99.6125518592487,PayPal,6.91057372229896,4.0,Average,Yes,False,False,False,True,1,2023,1,False,False,False,True,False,False,False,True,False,False,False,True
+144,1999,2023-05-24,167,3.0,136.29647304657078,Cash,2.9480665612671,2.0,Average,No,False,True,False,False,0,2023,0,False,True,False,False,False,True,False,False,False,True,False,False
+145,1917,2023-05-25,186,6.0,122.73314927770282,PayPal,5.564525063389201,3.0,Average,Yes,False,False,False,True,1,2023,0,False,False,False,True,False,False,False,True,False,False,False,True
+146,1201,2023-05-26,160,0.0,111.28929596937668,Cash,4.140703846292314,3.0,Bad,Yes,False,True,False,False,1,2023,0,False,True,False,False,False,True,False,False,False,True,False,False
+147,1383,2023-05-27,193,2.0,117.00724961244396,Cash,7.150907324426077,4.0,,Yes,False,True,False,False,1,2023,1,False,True,False,False,False,True,False,False,False,True,False,False
+148,1512,2023-05-28,141,3.0,129.96319657687903,PayPal,3.1901178574881275,1.0,Good,No,False,False,False,True,0,2023,0,False,False,False,True,False,False,False,True,False,False,False,True
+149,1906,2023-05-29,140,4.0,95.56400862445948,PayPal,2.8942194561242656,4.0,,Yes,False,False,False,True,1,2023,1,False,False,False,True,False,False,False,True,False,False,False,True
+150,1370,2023-05-30,160,2.0,107.14891722537706,Credit Card,1.182105311929528,4.0,Average,No,False,False,True,False,0,2023,1,False,False,True,False,False,False,True,False,False,False,True,False
+152,1954,2023-06-01,151,5.0,100.96456692166956,Cash,6.305453818973216,2.0,,No,False,True,False,False,0,2023,0,False,True,False,False,False,True,False,False,False,True,False,False
+153,1383,2023-06-02,140,2.0,86.28108126195988,PayPal,6.425140605390412,5.0,Bad,Yes,False,False,False,True,1,2023,1,False,False,False,True,False,False,False,True,False,False,False,True
+154,1023,2023-06-03,159,2.0,86.86831014291818,PayPal,2.926797995011297,3.0,Good,No,False,False,False,True,0,2023,0,False,False,False,True,False,False,False,True,False,False,False,True
+155,1699,2023-06-04,194,4.0,121.10195008586084,PayPal,5.369802242986762,2.0,Average,No,False,False,False,True,0,2023,0,False,False,False,True,False,False,False,True,False,False,False,True
+156,1130,2023-06-05,129,3.0,113.8559445731439,Bank Transfer,4.142054353300044,3.0,Bad,No,True,False,False,False,0,2023,0,True,False,False,False,True,False,False,False,True,False,False,False
+157,1377,2023-06-06,197,3.0,97.35364151692448,PayPal,2.8721412000188025,4.0,Bad,No,False,False,False,True,0,2023,1,False,False,False,True,False,False,False,True,False,False,False,True
+158,1098,2023-06-07,194,6.0,119.78202186498127,PayPal,4.436389992861432,2.0,Bad,Yes,False,False,False,True,1,2023,0,False,False,False,True,False,False,False,True,False,False,False,True
+159,1574,2023-06-08,137,3.0,83.66497734990959,Cash,5.006711655945664,2.0,Good,Yes,False,True,False,False,1,2023,0,False,True,False,False,False,True,False,False,False,True,False,False
+161,1734,2023-06-10,116,2.0,120.6095676263732,Bank Transfer,4.47972783853567,3.0,,No,True,False,False,False,0,2023,0,True,False,False,False,True,False,False,False,True,False,False,False
+162,1123,2023-06-11,199,8.0,71.10423716571974,Cash,4.759096880520437,3.0,Average,Yes,False,True,False,False,1,2023,0,False,True,False,False,False,True,False,False,False,True,False,False
+163,1963,2023-06-12,139,0.0,106.54616362288289,Bank Transfer,6.892789034240457,1.0,Good,No,True,False,False,False,0,2023,0,True,False,False,False,True,False,False,False,True,False,False,False
+164,1594,2023-06-13,129,4.0,99.6125518592487,PayPal,1.8747845102221612,1.0,Average,Yes,False,False,False,True,1,2023,0,False,False,False,True,False,False,False,True,False,False,False,True
+165,1942,2023-06-14,165,5.0,122.90848249938416,Bank Transfer,5.841316919862999,1.0,Average,No,True,False,False,False,0,2023,0,True,False,False,False,True,False,False,False,True,False,False,False
+166,1739,2023-06-15,123,3.0,82.15892184720568,Bank Transfer,1.9110186492142631,3.0,,Yes,True,False,False,False,1,2023,0,True,False,False,False,True,False,False,False,True,False,False,False
+168,1209,2023-06-17,100,3.0,88.56933288284615,Cash,2.8337973812523,5.0,Bad,No,False,True,False,False,0,2023,1,False,True,False,False,False,True,False,False,False,True,False,False
+169,1562,2023-06-18,187,4.0,104.1168931521346,Credit Card,5.370998145151946,5.0,,No,False,False,True,False,0,2023,1,False,False,True,False,False,False,True,False,False,False,True,False
+170,1411,2023-06-19,137,2.0,99.6125518592487,Bank Transfer,1.7460020858121967,5.0,Average,Yes,True,False,False,False,1,2023,1,True,False,False,False,True,False,False,False,True,False,False,False
+171,1782,2023-06-20,163,3.0,68.1463708977457,Credit Card,6.072823210140273,2.0,Average,Yes,False,False,True,False,1,2023,0,False,False,True,False,False,False,True,False,False,False,True,False
+172,1041,2023-06-21,126,3.0,99.6125518592487,Credit Card,4.736823227676058,5.0,Average,No,False,False,True,False,0,2023,1,False,False,True,False,False,False,True,False,False,False,True,False
+173,1058,2023-06-22,189,2.0,131.72296435217646,Credit Card,1.9810857030556428,5.0,,No,False,False,True,False,0,2023,1,False,False,True,False,False,False,True,False,False,False,True,False
+175,1036,2023-06-24,106,6.0,66.92022870887702,Cash,6.290576795607384,1.0,,No,False,True,False,False,0,2023,0,False,True,False,False,False,True,False,False,False,True,False,False
+176,1778,2023-06-25,188,2.0,133.02360533483218,Credit Card,2.767309716340697,4.0,Average,Yes,False,False,True,False,1,2023,1,False,False,True,False,False,False,True,False,False,False,True,False
+177,1086,2023-06-26,179,0.0,128.68217320067197,Bank Transfer,5.41806097697733,2.0,Bad,No,True,False,False,False,0,2023,0,True,False,False,False,True,False,False,False,True,False,False,False
+178,1043,2023-06-27,141,2.0,96.5309214930639,Bank Transfer,6.381756939022354,1.0,Bad,No,True,False,False,False,0,2023,0,True,False,False,False,True,False,False,False,True,False,False,False
+179,1872,2023-06-28,117,2.0,108.7581216081709,Cash,6.035536175122965,3.0,Good,Yes,False,True,False,False,1,2023,0,False,True,False,False,False,True,False,False,False,True,False,False
+180,1011,2023-06-29,180,2.0,119.1237584300698,Cash,6.851490221525563,3.0,,No,False,True,False,False,0,2023,0,False,True,False,False,False,True,False,False,False,True,False,False
+181,1770,2023-06-30,143,2.0,98.52569612964432,Bank Transfer,4.7554261797254656,2.0,Good,No,True,False,False,False,0,2023,0,True,False,False,False,True,False,False,False,True,False,False,False
+182,1307,2023-07-01,169,5.0,93.77006534683773,Bank Transfer,6.178657178468455,4.0,Bad,Yes,True,False,False,False,1,2023,1,True,False,False,False,True,False,False,False,True,False,False,False
+183,1080,2023-07-02,119,3.0,106.43060249533396,Bank Transfer,5.104784690299927,4.0,Bad,No,True,False,False,False,0,2023,1,True,False,False,False,True,False,False,False,True,False,False,False
+184,1032,2023-07-03,122,6.0,99.6125518592487,Bank Transfer,8.110987151262442,3.0,Bad,No,True,False,False,False,0,2023,0,True,False,False,False,True,False,False,False,True,False,False,False
+185,1182,2023-07-04,111,3.0,89.73176475076015,Credit Card,8.695525262571046,4.0,,No,False,False,True,False,0,2023,1,False,False,True,False,False,False,True,False,False,False,True,False
+187,1806,2023-07-06,133,3.0,86.15933293546463,Bank Transfer,5.674323539832237,4.0,,Yes,True,False,False,False,1,2023,1,True,False,False,False,True,False,False,False,True,False,False,False
+188,1275,2023-07-07,107,1.0,117.38442444299932,PayPal,6.765888152689959,2.0,Average,Yes,False,False,False,True,1,2023,0,False,False,False,True,False,False,False,True,False,False,False,True
+189,1174,2023-07-08,126,1.0,87.06852215788464,Credit Card,7.787910128875099,4.0,,No,False,False,True,False,0,2023,1,False,False,True,False,False,False,True,False,False,False,True,False
+191,1371,2023-07-10,171,2.0,99.6125518592487,PayPal,3.675645232751827,4.0,Average,Yes,False,False,False,True,1,2023,1,False,False,False,True,False,False,False,True,False,False,False,True
+192,1184,2023-07-11,154,3.0,144.53782469017915,Credit Card,3.1265584291,5.0,Good,Yes,False,False,True,False,1,2023,1,False,False,True,False,False,False,True,False,False,False,True,False
+193,1444,2023-07-12,196,1.0,94.98141639457756,Credit Card,6.212458194059774,5.0,,No,False,False,True,False,0,2023,1,False,False,True,False,False,False,True,False,False,False,True,False
+194,1488,2023-07-13,182,3.0,86.41975113126855,Credit Card,3.1408935643100717,3.0,Good,No,False,False,True,False,0,2023,0,False,False,True,False,False,False,True,False,False,False,True,False
+195,1589,2023-07-14,187,2.0,130.8187572324004,Credit Card,3.9787106482056513,2.0,,Yes,False,False,True,False,1,2023,0,False,False,True,False,False,False,True,False,False,False,True,False
+196,1286,2023-07-15,121,3.0,127.61342028328234,PayPal,4.917002794625617,2.0,Bad,No,False,False,False,True,0,2023,0,False,False,False,True,False,False,False,True,False,False,False,True
+197,1280,2023-07-16,102,1.0,99.60788463491625,PayPal,5.617838313127952,5.0,,No,False,False,False,True,0,2023,1,False,False,False,True,False,False,False,True,False,False,False,True
+198,1637,2023-07-17,108,0.0,120.24451991241251,Credit Card,8.283819776418985,3.0,Good,No,False,False,True,False,0,2023,0,False,False,True,False,False,False,True,False,False,False,True,False
+199,1770,2023-07-18,110,6.0,74.66300335188811,PayPal,3.5433087449839995,2.0,Good,No,False,False,False,True,0,2023,0,False,False,False,True,False,False,False,True,False,False,False,True
+200,1515,2023-07-19,105,4.0,93.30125217185724,Cash,7.1159500473346,2.0,Good,Yes,False,True,False,False,1,2023,0,False,True,False,False,False,True,False,False,False,True,False,False
+202,1226,2023-07-21,138,2.0,99.6125518592487,Cash,4.017860439193575,5.0,Average,Yes,False,True,False,False,1,2023,1,False,True,False,False,False,True,False,False,False,True,False,False
+203,1875,2023-07-22,165,2.0,124.11511947161182,Credit Card,5.9330092056881165,2.0,,No,False,False,True,False,0,2023,0,False,False,True,False,False,False,True,False,False,False,True,False
+204,1269,2023-07-23,159,2.0,75.15210762905197,Cash,7.388319064743996,5.0,Bad,No,False,True,False,False,0,2023,1,False,True,False,False,False,True,False,False,False,True,False,False
+205,1880,2023-07-24,136,1.0,112.38502168942576,Bank Transfer,6.254268741030787,4.0,Good,Yes,True,False,False,False,1,2023,1,True,False,False,False,True,False,False,False,True,False,False,False
+206,1296,2023-07-25,105,2.0,102.96697358362228,Bank Transfer,5.416581164561471,5.0,Good,Yes,True,False,False,False,1,2023,1,True,False,False,False,True,False,False,False,True,False,False,False
+207,1328,2023-07-26,105,4.0,99.6125518592487,Cash,5.643037525944761,4.0,Average,No,False,True,False,False,0,2023,1,False,True,False,False,False,True,False,False,False,True,False,False
+208,1019,2023-07-27,138,4.0,123.03928781740576,Cash,6.396097548872617,2.0,Bad,No,False,True,False,False,0,2023,0,False,True,False,False,False,True,False,False,False,True,False,False
+209,1607,2023-07-28,135,4.0,142.52754022440402,Bank Transfer,3.52782196830586,1.0,Average,No,True,False,False,False,0,2023,0,True,False,False,False,True,False,False,False,True,False,False,False
+210,1840,2023-07-29,188,5.0,99.6125518592487,Bank Transfer,3.166187175308571,2.0,Average,Yes,True,False,False,False,1,2023,0,True,False,False,False,True,False,False,False,True,False,False,False
+211,1410,2023-07-30,149,4.0,71.57103719145798,Bank Transfer,5.329074176845257,2.0,,Yes,True,False,False,False,1,2023,0,True,False,False,False,True,False,False,False,True,False,False,False
+212,1450,2023-07-31,179,3.0,115.18358772498132,Credit Card,3.244521542657941,4.0,Good,No,False,False,True,False,0,2023,1,False,False,True,False,False,False,True,False,False,False,True,False
+213,1248,2023-08-01,184,2.0,101.56070180085132,Bank Transfer,3.5773974289752903,2.0,Good,No,True,False,False,False,0,2023,0,True,False,False,False,True,False,False,False,True,False,False,False
+215,1323,2023-08-03,104,3.0,81.6777344778836,Cash,9.669214387150571,2.0,,Yes,False,True,False,False,1,2023,0,False,True,False,False,False,True,False,False,False,True,False,False
+216,1829,2023-08-04,149,0.0,69.23072368061702,Cash,3.854028713064897,5.0,Average,No,False,True,False,False,0,2023,1,False,True,False,False,False,True,False,False,False,True,False,False
+217,1782,2023-08-05,124,3.0,89.66452755038571,PayPal,5.125147550632562,1.0,Good,No,False,False,False,True,0,2023,0,False,False,False,True,False,False,False,True,False,False,False,True
+218,1864,2023-08-06,194,1.0,90.9962504836804,PayPal,9.957766813234777,5.0,,No,False,False,False,True,0,2023,1,False,False,False,True,False,False,False,True,False,False,False,True
+219,1260,2023-08-07,102,2.0,104.3675919060558,Bank Transfer,6.213733145130388,5.0,Bad,Yes,True,False,False,False,1,2023,1,True,False,False,False,True,False,False,False,True,False,False,False
+220,1963,2023-08-08,183,3.0,99.6125518592487,Cash,5.429528433991282,4.0,,No,False,True,False,False,0,2023,1,False,True,False,False,False,True,False,False,False,True,False,False
+221,1749,2023-08-09,103,4.0,120.7530312741618,PayPal,6.361166683272774,4.0,Bad,No,False,False,False,True,0,2023,1,False,False,False,True,False,False,False,True,False,False,False,True
+222,1139,2023-08-10,177,4.0,95.620881174401,Cash,5.545599700197602,4.0,Good,Yes,False,True,False,False,1,2023,1,False,True,False,False,False,True,False,False,False,True,False,False
+223,1598,2023-08-11,111,3.0,100.28726491586774,Credit Card,5.495646975153973,5.0,Average,Yes,False,False,True,False,1,2023,1,False,False,True,False,False,False,True,False,False,False,True,False
+228,1696,2023-08-16,147,3.0,99.6125518592487,Bank Transfer,5.334807122124295,2.0,,Yes,True,False,False,False,1,2023,0,True,False,False,False,True,False,False,False,True,False,False,False
+229,1528,2023-08-17,198,4.0,99.61721908358116,PayPal,2.5593569316912306,4.0,,No,False,False,False,True,0,2023,1,False,False,False,True,False,False,False,True,False,False,False,True
+230,1152,2023-08-18,121,2.0,105.08494946013272,Cash,3.050977376706407,2.0,,Yes,False,True,False,False,1,2023,0,False,True,False,False,False,True,False,False,False,True,False,False
+231,1925,2023-08-19,120,5.0,80.40650018975302,Cash,5.202560123672786,1.0,Bad,No,False,True,False,False,0,2023,0,False,True,False,False,False,True,False,False,False,True,False,False
+232,1149,2023-08-20,142,0.0,73.79372947333415,Bank Transfer,3.8916498326311832,5.0,,No,True,False,False,False,0,2023,1,True,False,False,False,True,False,False,False,True,False,False,False
+233,1110,2023-08-21,157,5.0,97.85243363525684,PayPal,5.91349811300721,4.0,,Yes,False,False,False,True,1,2023,1,False,False,False,True,False,False,False,True,False,False,False,True
+236,1956,2023-08-24,185,3.0,129.20502185341977,Bank Transfer,2.007279831625377,5.0,Bad,Yes,True,False,False,False,1,2023,1,True,False,False,False,True,False,False,False,True,False,False,False
+237,1889,2023-08-25,155,3.0,100.51361165653488,PayPal,7.701824150429982,3.0,,No,False,False,False,True,0,2023,0,False,False,False,True,False,False,False,True,False,False,False,True
+238,1886,2023-08-26,168,3.0,142.03373046499996,Bank Transfer,4.918324550768928,3.0,Bad,Yes,True,False,False,False,1,2023,0,True,False,False,False,True,False,False,False,True,False,False,False
+239,1117,2023-08-27,198,7.0,94.44827503869804,PayPal,4.357624020146615,5.0,Bad,Yes,False,False,False,True,1,2023,1,False,False,False,True,False,False,False,True,False,False,False,True
+240,1445,2023-08-28,111,0.0,105.99714443105802,Bank Transfer,4.796891759383818,1.0,Average,Yes,True,False,False,False,1,2023,0,True,False,False,False,True,False,False,False,True,False,False,False
+241,1595,2023-08-29,198,3.0,83.6233314623745,Bank Transfer,5.65813038728413,5.0,Bad,Yes,True,False,False,False,1,2023,1,True,False,False,False,True,False,False,False,True,False,False,False
+243,1872,2023-08-31,119,3.0,104.3176075196899,Bank Transfer,3.97292436584162,2.0,Average,No,True,False,False,False,0,2023,0,True,False,False,False,True,False,False,False,True,False,False,False
+244,1928,2023-09-01,111,1.0,105.66784602269736,Cash,3.889704247083768,2.0,Good,No,False,True,False,False,0,2023,0,False,True,False,False,False,True,False,False,False,True,False,False
+246,1507,2023-09-03,125,1.0,82.61937531138729,PayPal,0.1247864679184411,4.0,,Yes,False,False,False,True,1,2023,1,False,False,False,True,False,False,False,True,False,False,False,True
+247,1763,2023-09-04,197,4.0,84.57405844033529,Credit Card,5.381583180226259,1.0,Average,Yes,False,False,True,False,1,2023,0,False,False,True,False,False,False,True,False,False,False,True,False
+248,1121,2023-09-05,195,2.0,82.51558436145143,Cash,0.8677252012278602,5.0,,No,False,True,False,False,0,2023,1,False,True,False,False,False,True,False,False,False,True,False,False
+249,1326,2023-09-06,145,3.0,63.38313146644986,PayPal,5.548357754909986,3.0,,No,False,False,False,True,0,2023,0,False,False,False,True,False,False,False,True,False,False,False,True
+250,1469,2023-09-07,106,4.0,99.6125518592487,Credit Card,6.655909253539457,2.0,Average,Yes,False,False,True,False,1,2023,0,False,False,True,False,False,False,True,False,False,False,True,False
+251,1287,2023-09-08,189,6.0,99.6125518592487,Cash,6.938784247352682,5.0,Average,No,False,True,False,False,0,2023,1,False,True,False,False,False,True,False,False,False,True,False,False
+252,1525,2023-09-09,188,3.0,86.92670724585095,Bank Transfer,4.298211444684986,1.0,Average,No,True,False,False,False,0,2023,0,True,False,False,False,True,False,False,False,True,False,False,False
+253,1839,2023-09-10,138,2.0,113.82257413703394,PayPal,6.578333107939469,4.0,Bad,Yes,False,False,False,True,1,2023,1,False,False,False,True,False,False,False,True,False,False,False,True
+254,1696,2023-09-11,151,3.0,99.6125518592487,PayPal,8.296025259502922,2.0,Bad,Yes,False,False,False,True,1,2023,0,False,False,False,True,False,False,False,True,False,False,False,True
+255,1152,2023-09-12,116,7.0,97.85680112453036,PayPal,3.246930095452345,4.0,,Yes,False,False,False,True,1,2023,1,False,False,False,True,False,False,False,True,False,False,False,True
+256,1591,2023-09-13,123,3.0,99.26112235914448,Cash,5.070257404077868,3.0,,Yes,False,True,False,False,1,2023,0,False,True,False,False,False,True,False,False,False,True,False,False
+258,1274,2023-09-15,103,4.0,115.50899862149892,Credit Card,8.0626389439121,2.0,Bad,No,False,False,True,False,0,2023,0,False,False,True,False,False,False,True,False,False,False,True,False
+259,1552,2023-09-16,190,2.0,79.56116394412304,Bank Transfer,2.915986103282751,2.0,Good,No,True,False,False,False,0,2023,0,True,False,False,False,True,False,False,False,True,False,False,False
+260,1438,2023-09-17,146,8.0,132.0326729688488,Cash,5.279001511968298,1.0,Average,No,False,True,False,False,0,2023,0,False,True,False,False,False,True,False,False,False,True,False,False
+261,1207,2023-09-18,129,1.0,92.58614184640356,Bank Transfer,5.12462613957446,3.0,Bad,No,True,False,False,False,0,2023,0,True,False,False,False,True,False,False,False,True,False,False,False
+262,1779,2023-09-19,102,4.0,118.66057356422608,PayPal,7.983026561620951,1.0,Good,Yes,False,False,False,True,1,2023,0,False,False,False,True,False,False,False,True,False,False,False,True
+263,1166,2023-09-20,105,5.0,116.23462607672892,Credit Card,4.069657246897207,4.0,,No,False,False,True,False,0,2023,1,False,False,True,False,False,False,True,False,False,False,True,False
+264,1111,2023-09-21,171,3.0,99.6125518592487,PayPal,6.050108185082301,5.0,,No,False,False,False,True,0,2023,1,False,False,False,True,False,False,False,True,False,False,False,True
+265,1349,2023-09-22,115,2.0,90.60799676361334,Bank Transfer,5.23989176407849,2.0,Good,No,True,False,False,False,0,2023,0,True,False,False,False,True,False,False,False,True,False,False,False
+266,1129,2023-09-23,178,3.0,105.2805978909762,PayPal,6.344160572706652,1.0,Good,No,False,False,False,True,0,2023,0,False,False,False,True,False,False,False,True,False,False,False,True
+267,1735,2023-09-24,135,3.0,105.1277399939592,PayPal,4.556697228143002,2.0,Bad,Yes,False,False,False,True,1,2023,0,False,False,False,True,False,False,False,True,False,False,False,True
+268,1886,2023-09-25,152,5.0,103.53778140555336,Credit Card,3.990243984258403,5.0,Good,No,False,False,True,False,0,2023,1,False,False,True,False,False,False,True,False,False,False,True,False
+269,1812,2023-09-26,107,3.0,98.13822003898947,Credit Card,5.08385811082726,2.0,,No,False,False,True,False,0,2023,0,False,False,True,False,False,False,True,False,False,False,True,False
+270,1216,2023-09-27,151,1.0,126.07311509795753,Credit Card,5.357147915296296,4.0,Average,No,False,False,True,False,0,2023,1,False,False,True,False,False,False,True,False,False,False,True,False
+271,1381,2023-09-28,151,3.0,111.713554616622,Credit Card,6.601948368947688,5.0,Good,No,False,False,True,False,0,2023,1,False,False,True,False,False,False,True,False,False,False,True,False
+272,1024,2023-09-29,129,0.0,92.15279427866233,Cash,4.690729529801865,3.0,Good,Yes,False,True,False,False,1,2023,0,False,True,False,False,False,True,False,False,False,True,False,False
+273,1067,2023-09-30,155,4.0,97.83373955431806,PayPal,7.628171270417189,1.0,,Yes,False,False,False,True,1,2023,0,False,False,False,True,False,False,False,True,False,False,False,True
+274,1978,2023-10-01,111,3.0,90.25490326933192,Bank Transfer,3.5248875797047168,2.0,Good,Yes,True,False,False,False,1,2023,0,True,False,False,False,True,False,False,False,True,False,False,False
+275,1771,2023-10-02,167,4.0,96.65974158562868,Cash,5.894102195475208,4.0,Good,Yes,False,True,False,False,1,2023,1,False,True,False,False,False,True,False,False,False,True,False,False
+276,1234,2023-10-03,177,4.0,122.23764758340128,PayPal,3.395842689226526,1.0,Good,Yes,False,False,False,True,1,2023,0,False,False,False,True,False,False,False,True,False,False,False,True
+278,1998,2023-10-05,188,3.0,83.0831762059162,Credit Card,4.380122167706148,4.0,Bad,Yes,False,False,True,False,1,2023,1,False,False,True,False,False,False,True,False,False,False,True,False
+279,1291,2023-10-06,168,3.0,82.03897768217348,Credit Card,4.489065920272592,5.0,Bad,Yes,False,False,True,False,1,2023,1,False,False,True,False,False,False,True,False,False,False,True,False
+280,1726,2023-10-07,186,5.0,122.71597622716143,Cash,4.351431883972767,3.0,Bad,Yes,False,True,False,False,1,2023,0,False,True,False,False,False,True,False,False,False,True,False,False
+281,1701,2023-10-08,157,5.0,94.20932350123157,Credit Card,3.095396006884904,2.0,Bad,No,False,False,True,False,0,2023,0,False,False,True,False,False,False,True,False,False,False,True,False
+282,1709,2023-10-09,193,1.0,62.46901807612631,Bank Transfer,4.36704859582444,2.0,,No,True,False,False,False,0,2023,0,True,False,False,False,True,False,False,False,True,False,False,False
+283,1727,2023-10-10,111,2.0,90.61213441965356,PayPal,4.295485151283417,2.0,,Yes,False,False,False,True,1,2023,0,False,False,False,True,False,False,False,True,False,False,False,True
+285,1032,2023-10-12,182,6.0,103.23996398244395,Cash,3.983761489605441,2.0,Good,Yes,False,True,False,False,1,2023,0,False,True,False,False,False,True,False,False,False,True,False,False
+286,1011,2023-10-13,189,3.0,106.53328468838046,PayPal,7.671159406140145,3.0,Good,No,False,False,False,True,0,2023,0,False,False,False,True,False,False,False,True,False,False,False,True
+287,1616,2023-10-14,103,3.0,131.90021539435725,Credit Card,9.214734379441012,3.0,Average,Yes,False,False,True,False,1,2023,0,False,False,True,False,False,False,True,False,False,False,True,False
+288,1212,2023-10-15,137,3.0,99.6125518592487,Cash,4.3940135199766654,5.0,Good,No,False,True,False,False,0,2023,1,False,True,False,False,False,True,False,False,False,True,False,False
+289,1138,2023-10-16,107,4.0,122.16641843412256,Credit Card,1.5092766800409128,1.0,Good,No,False,False,True,False,0,2023,0,False,False,True,False,False,False,True,False,False,False,True,False
+290,1694,2023-10-17,129,4.0,119.77227244266165,PayPal,4.470242636384839,4.0,,No,False,False,False,True,0,2023,1,False,False,False,True,False,False,False,True,False,False,False,True
+292,1637,2023-10-19,111,4.0,121.97957032883198,Bank Transfer,1.2187320355872635,1.0,Good,Yes,True,False,False,False,1,2023,0,True,False,False,False,True,False,False,False,True,False,False,False
+293,1668,2023-10-20,173,2.0,57.96169381075768,Bank Transfer,4.9915371274126885,3.0,,No,True,False,False,False,0,2023,0,True,False,False,False,True,False,False,False,True,False,False,False
+294,1623,2023-10-21,111,5.0,123.511544742352,Bank Transfer,5.415427798764306,5.0,,No,True,False,False,False,0,2023,1,True,False,False,False,True,False,False,False,True,False,False,False
+295,1488,2023-10-22,116,2.0,106.95130311614842,PayPal,4.873097809631469,5.0,,Yes,False,False,False,True,1,2023,1,False,False,False,True,False,False,False,True,False,False,False,True
+296,1770,2023-10-23,160,1.0,106.25094650731994,Credit Card,4.946492663792622,5.0,Good,No,False,False,True,False,0,2023,1,False,False,True,False,False,False,True,False,False,False,True,False
+297,1539,2023-10-24,163,3.0,57.16233643998844,Cash,2.2268641326214293,5.0,Average,Yes,False,True,False,False,1,2023,1,False,True,False,False,False,True,False,False,False,True,False,False
+298,1979,2023-10-25,159,4.0,83.33178956946858,Bank Transfer,7.818141837505594,1.0,Bad,No,True,False,False,False,0,2023,0,True,False,False,False,True,False,False,False,True,False,False,False
+299,1217,2023-10-26,101,3.0,86.72316297546244,Credit Card,6.753063843296643,2.0,Good,No,False,False,True,False,0,2023,0,False,False,True,False,False,False,True,False,False,False,True,False
+300,1663,2023-10-27,118,3.0,137.7915250956943,Credit Card,4.842298584853141,4.0,,Yes,False,False,True,False,1,2023,1,False,False,True,False,False,False,True,False,False,False,True,False
+304,1148,2023-10-31,185,2.0,99.6125518592487,PayPal,8.64081787626283,1.0,Average,Yes,False,False,False,True,1,2023,0,False,False,False,True,False,False,False,True,False,False,False,True
+305,1949,2023-11-01,188,2.0,100.66862905878185,Cash,5.847282882838074,4.0,Average,Yes,False,True,False,False,1,2023,1,False,True,False,False,False,True,False,False,False,True,False,False
+306,1541,2023-11-02,173,6.0,99.6125518592487,Cash,4.751200428064431,4.0,Average,No,False,True,False,False,0,2023,1,False,True,False,False,False,True,False,False,False,True,False,False
+307,1579,2023-11-03,108,3.0,93.6450905327051,Bank Transfer,8.88654140314002,5.0,Good,Yes,True,False,False,False,1,2023,1,True,False,False,False,True,False,False,False,True,False,False,False
+308,1547,2023-11-04,182,5.0,86.7221825142548,Credit Card,2.993372478936819,2.0,,Yes,False,False,True,False,1,2023,0,False,False,True,False,False,False,True,False,False,False,True,False
+310,1393,2023-11-06,192,2.0,106.37512470172412,PayPal,7.657624000341136,2.0,Good,Yes,False,False,False,True,1,2023,0,False,False,False,True,False,False,False,True,False,False,False,True
+311,1073,2023-11-07,151,3.0,104.90073576832198,Bank Transfer,6.543102509568039,3.0,Average,Yes,True,False,False,False,1,2023,0,True,False,False,False,True,False,False,False,True,False,False,False
+312,1297,2023-11-08,181,1.0,82.4959555273927,Cash,4.179430114028517,5.0,,Yes,False,True,False,False,1,2023,1,False,True,False,False,False,True,False,False,False,True,False,False
+313,1919,2023-11-09,155,1.0,76.61155808506032,Credit Card,1.5966833030465706,2.0,Bad,No,False,False,True,False,0,2023,0,False,False,True,False,False,False,True,False,False,False,True,False
+314,1899,2023-11-10,115,2.0,118.61362841462586,Cash,7.855668988661979,3.0,Good,No,False,True,False,False,0,2023,0,False,True,False,False,False,True,False,False,False,True,False,False
+315,1814,2023-11-11,103,4.0,92.00535626764642,Credit Card,3.537554532886876,4.0,Average,Yes,False,False,True,False,1,2023,1,False,False,True,False,False,False,True,False,False,False,True,False
+316,1730,2023-11-12,188,1.0,105.17241387237122,PayPal,4.327197020604853,5.0,Bad,Yes,False,False,False,True,1,2023,1,False,False,False,True,False,False,False,True,False,False,False,True
+317,1946,2023-11-13,185,3.0,65.40007099102128,Bank Transfer,7.634312705453796,5.0,Average,No,True,False,False,False,0,2023,1,True,False,False,False,True,False,False,False,True,False,False,False
+318,1876,2023-11-14,128,2.0,100.4004485425106,Credit Card,6.027620482816528,3.0,Good,Yes,False,False,True,False,1,2023,0,False,False,True,False,False,False,True,False,False,False,True,False
+319,1771,2023-11-15,158,5.0,106.05502090222885,Cash,6.609970921320482,5.0,Bad,No,False,True,False,False,0,2023,1,False,True,False,False,False,True,False,False,False,True,False,False
+320,1799,2023-11-16,185,2.0,99.6125518592487,Bank Transfer,4.699688298876356,1.0,Bad,No,True,False,False,False,0,2023,0,True,False,False,False,True,False,False,False,True,False,False,False
+322,1394,2023-11-18,165,4.0,69.23306794286542,Cash,2.8523045085270824,2.0,Bad,Yes,False,True,False,False,1,2023,0,False,True,False,False,False,True,False,False,False,True,False,False
+323,1539,2023-11-19,176,4.0,125.6591924406498,PayPal,6.88236467591864,4.0,Good,Yes,False,False,False,True,1,2023,1,False,False,False,True,False,False,False,True,False,False,False,True
+324,1429,2023-11-20,111,3.0,117.54999931609036,Bank Transfer,8.851745291263757,2.0,,No,True,False,False,False,0,2023,0,True,False,False,False,True,False,False,False,True,False,False,False
+325,1199,2023-11-21,125,3.0,97.03069427854884,Bank Transfer,5.659623195672776,3.0,,Yes,True,False,False,False,1,2023,0,True,False,False,False,True,False,False,False,True,False,False,False
+326,1423,2023-11-22,111,3.0,98.66027922580376,PayPal,6.396047694596224,5.0,Good,Yes,False,False,False,True,1,2023,1,False,False,False,True,False,False,False,True,False,False,False,True
+327,1061,2023-11-23,190,3.0,98.53185378087444,PayPal,6.009333644482375,4.0,,No,False,False,False,True,0,2023,1,False,False,False,True,False,False,False,True,False,False,False,True
+328,1341,2023-11-24,134,3.0,129.90894636218547,PayPal,7.023531422099053,4.0,Average,No,False,False,False,True,0,2023,1,False,False,False,True,False,False,False,True,False,False,False,True
+329,1865,2023-11-25,101,2.0,126.60543864544044,Cash,2.453285381808335,5.0,Good,No,False,True,False,False,0,2023,1,False,True,False,False,False,True,False,False,False,True,False,False
+330,1044,2023-11-26,116,2.0,131.4652305959314,Cash,3.2557644522013245,2.0,Average,No,False,True,False,False,0,2023,0,False,True,False,False,False,True,False,False,False,True,False,False
+331,1802,2023-11-27,101,5.0,139.80169535413916,PayPal,2.8659074115427106,1.0,Good,No,False,False,False,True,0,2023,0,False,False,False,True,False,False,False,True,False,False,False,True
+332,1930,2023-11-28,116,4.0,107.96390875803124,PayPal,1.512852159886772,3.0,,No,False,False,False,True,0,2023,0,False,False,False,True,False,False,False,True,False,False,False,True
+334,1033,2023-11-30,133,3.0,99.6125518592487,Cash,6.684094783201258,1.0,Average,No,False,True,False,False,0,2023,0,False,True,False,False,False,True,False,False,False,True,False,False
+335,1645,2023-12-01,144,4.0,107.70026996023844,Credit Card,4.734782134675585,5.0,Bad,No,False,False,True,False,0,2023,1,False,False,True,False,False,False,True,False,False,False,True,False
+337,1767,2023-12-03,172,5.0,104.74614969349255,Credit Card,7.647830999740307,2.0,Average,No,False,False,True,False,0,2023,0,False,False,True,False,False,False,True,False,False,False,True,False
+338,1036,2023-12-04,177,2.0,112.83485595649788,Cash,1.208367865283106,2.0,Good,No,False,True,False,False,0,2023,0,False,True,False,False,False,True,False,False,False,True,False,False
+339,1768,2023-12-05,183,3.0,81.56537329604879,Bank Transfer,4.290735054873055,3.0,,Yes,True,False,False,False,1,2023,0,True,False,False,False,True,False,False,False,True,False,False,False
+340,1459,2023-12-06,132,3.0,89.2134819160716,Cash,8.829162942741949,3.0,Bad,No,False,True,False,False,0,2023,0,False,True,False,False,False,True,False,False,False,True,False,False
+343,1894,2023-12-09,131,5.0,88.92296056577729,Credit Card,2.8558758850369523,5.0,Average,Yes,False,False,True,False,1,2023,1,False,False,True,False,False,False,True,False,False,False,True,False
+344,1949,2023-12-10,122,4.0,116.72359131728908,Bank Transfer,5.579681183393325,1.0,,Yes,True,False,False,False,1,2023,0,True,False,False,False,True,False,False,False,True,False,False,False
+345,1254,2023-12-11,164,3.0,103.4035211830164,Bank Transfer,3.95516192808758,5.0,Bad,Yes,True,False,False,False,1,2023,1,True,False,False,False,True,False,False,False,True,False,False,False
+346,1080,2023-12-12,131,8.0,117.54769273631037,PayPal,3.160687162771368,4.0,Good,No,False,False,False,True,0,2023,1,False,False,False,True,False,False,False,True,False,False,False,True
+347,1446,2023-12-13,179,3.0,116.93919826620971,PayPal,4.943236114686395,1.0,,No,False,False,False,True,0,2023,0,False,False,False,True,False,False,False,True,False,False,False,True
+349,1189,2023-12-15,115,1.0,96.43446277864466,Credit Card,7.323356254985778,3.0,Bad,Yes,False,False,True,False,1,2023,0,False,False,True,False,False,False,True,False,False,False,True,False
+350,1129,2023-12-16,151,3.0,107.32229183779717,PayPal,4.571076795070312,5.0,Average,Yes,False,False,False,True,1,2023,1,False,False,False,True,False,False,False,True,False,False,False,True
+351,1209,2023-12-17,112,2.0,99.6125518592487,Cash,4.668972205158716,1.0,,No,False,True,False,False,0,2023,0,False,True,False,False,False,True,False,False,False,True,False,False
+352,1368,2023-12-18,145,4.0,95.49303703699238,Cash,5.299789683965458,1.0,,No,False,True,False,False,0,2023,0,False,True,False,False,False,True,False,False,False,True,False,False
+353,1291,2023-12-19,110,2.0,93.0850446964212,Bank Transfer,5.094280311963659,3.0,Average,Yes,True,False,False,False,1,2023,0,True,False,False,False,True,False,False,False,True,False,False,False
+354,1376,2023-12-20,180,3.0,99.6125518592487,Credit Card,7.745993071842906,2.0,,No,False,False,True,False,0,2023,0,False,False,True,False,False,False,True,False,False,False,True,False
+355,1347,2023-12-21,170,3.0,135.88070498616787,Bank Transfer,3.581098720196623,4.0,Good,No,True,False,False,False,0,2023,1,True,False,False,False,True,False,False,False,True,False,False,False
+357,1884,2023-12-23,194,3.0,96.586342108517,PayPal,7.7589995558640386,1.0,Good,Yes,False,False,False,True,1,2023,0,False,False,False,True,False,False,False,True,False,False,False,True
+358,1804,2023-12-24,167,1.0,88.71172761373163,Cash,5.907697794071593,4.0,,No,False,True,False,False,0,2023,1,False,True,False,False,False,True,False,False,False,True,False,False
+359,1176,2023-12-25,180,4.0,101.8588985947134,Bank Transfer,4.475136738154823,2.0,Bad,Yes,True,False,False,False,1,2023,0,True,False,False,False,True,False,False,False,True,False,False,False
+360,1537,2023-12-26,164,2.0,70.94530828194274,PayPal,3.083877474394153,2.0,Bad,No,False,False,False,True,0,2023,0,False,False,False,True,False,False,False,True,False,False,False,True
+361,1323,2023-12-27,101,7.0,99.6125518592487,Credit Card,5.280133844683563,5.0,Average,No,False,False,True,False,0,2023,1,False,False,True,False,False,False,True,False,False,False,True,False
+362,1871,2023-12-28,150,2.0,106.90058289691324,PayPal,4.068606980678388,5.0,Bad,No,False,False,False,True,0,2023,1,False,False,False,True,False,False,False,True,False,False,False,True
+363,1508,2023-12-29,196,3.0,99.6125518592487,Credit Card,5.672924188495775,4.0,,Yes,False,False,True,False,1,2023,1,False,False,True,False,False,False,True,False,False,False,True,False
+364,1803,2023-12-30,182,8.0,99.6125518592487,Bank Transfer,6.393079046673926,4.0,Good,Yes,True,False,False,False,1,2023,1,True,False,False,False,True,False,False,False,True,False,False,False
+365,1114,2023-12-31,182,1.0,86.86425685982735,Credit Card,7.776295608538434,1.0,Average,Yes,False,False,True,False,1,2023,0,False,False,True,False,False,False,True,False,False,False,True,False
+366,1798,2024-01-01,157,5.0,124.2999614113393,Credit Card,3.811281342902124,5.0,Bad,No,False,False,True,False,0,2024,1,False,False,True,False,False,False,True,False,False,False,True,False
+367,1029,2024-01-02,122,1.0,110.76958355816858,Cash,3.9784012596815295,3.0,,Yes,False,True,False,False,1,2024,0,False,True,False,False,False,True,False,False,False,True,False,False
+368,1753,2024-01-03,115,5.0,99.72516285951642,Credit Card,6.929111389563878,1.0,Average,Yes,False,False,True,False,1,2024,0,False,False,True,False,False,False,True,False,False,False,True,False
+370,1146,2024-01-05,128,2.0,82.9629984772416,Credit Card,6.564413943458968,5.0,Average,Yes,False,False,True,False,1,2024,1,False,False,True,False,False,False,True,False,False,False,True,False
+371,1273,2024-01-06,171,0.0,90.18866492354216,PayPal,6.120268318822777,2.0,Average,Yes,False,False,False,True,1,2024,0,False,False,False,True,False,False,False,True,False,False,False,True
+372,1221,2024-01-07,127,3.0,104.07251736452936,PayPal,3.921049210625153,2.0,Bad,Yes,False,False,False,True,1,2024,0,False,False,False,True,False,False,False,True,False,False,False,True
+373,1340,2024-01-08,188,5.0,89.65790001206011,Credit Card,6.349001866009511,1.0,Good,Yes,False,False,True,False,1,2024,0,False,False,True,False,False,False,True,False,False,False,True,False
+375,1514,2024-01-10,158,6.0,96.75212644117175,Credit Card,4.303060313117151,5.0,Bad,Yes,False,False,True,False,1,2024,1,False,False,True,False,False,False,True,False,False,False,True,False
+377,1357,2024-01-12,176,3.0,99.6125518592487,PayPal,4.431052407738381,3.0,Average,No,False,False,False,True,0,2024,0,False,False,False,True,False,False,False,True,False,False,False,True
+378,1908,2024-01-13,113,4.0,123.49673165825754,PayPal,6.779975405027559,1.0,Average,No,False,False,False,True,0,2024,0,False,False,False,True,False,False,False,True,False,False,False,True
+379,1556,2024-01-14,118,3.0,103.9022545152725,PayPal,5.695326885690991,1.0,,Yes,False,False,False,True,1,2024,0,False,False,False,True,False,False,False,True,False,False,False,True
+380,1885,2024-01-15,178,4.0,94.86938038976687,Bank Transfer,2.115087054429747,5.0,,No,True,False,False,False,0,2024,1,True,False,False,False,True,False,False,False,True,False,False,False
+381,1765,2024-01-16,178,3.0,113.16839855403089,PayPal,7.604063073860666,2.0,Bad,Yes,False,False,False,True,1,2024,0,False,False,False,True,False,False,False,True,False,False,False,True
+382,1322,2024-01-17,120,3.0,99.6125518592487,Bank Transfer,3.087490694448133,1.0,Average,Yes,True,False,False,False,1,2024,0,True,False,False,False,True,False,False,False,True,False,False,False
+384,1091,2024-01-19,155,1.0,56.19995097653825,Cash,5.915142279093027,2.0,,Yes,False,True,False,False,1,2024,0,False,True,False,False,False,True,False,False,False,True,False,False
+385,1341,2024-01-20,144,3.0,78.51444801321185,Credit Card,5.811913070189767,4.0,,Yes,False,False,True,False,1,2024,1,False,False,True,False,False,False,True,False,False,False,True,False
+387,1551,2024-01-22,144,4.0,99.6125518592487,Cash,8.573156959738343,4.0,Good,Yes,False,True,False,False,1,2024,1,False,True,False,False,False,True,False,False,False,True,False,False
+388,1971,2024-01-23,115,3.0,62.28273788229135,Credit Card,8.783441850499635,3.0,Good,Yes,False,False,True,False,1,2024,0,False,False,True,False,False,False,True,False,False,False,True,False
+389,1662,2024-01-24,187,2.0,103.2938240925331,PayPal,3.077171041557345,4.0,,Yes,False,False,False,True,1,2024,1,False,False,False,True,False,False,False,True,False,False,False,True
+390,1414,2024-01-25,175,1.0,102.515748165997,Credit Card,4.077573804626586,5.0,Average,Yes,False,False,True,False,1,2024,1,False,False,True,False,False,False,True,False,False,False,True,False
+391,1657,2024-01-26,177,2.0,103.5504290210014,Credit Card,6.23916207554301,1.0,,Yes,False,False,True,False,1,2024,0,False,False,True,False,False,False,True,False,False,False,True,False
+392,1710,2024-01-27,129,3.0,89.62022860996788,PayPal,6.551057024540988,2.0,Bad,No,False,False,False,True,0,2024,0,False,False,False,True,False,False,False,True,False,False,False,True
+393,1967,2024-01-28,195,2.0,133.58461875275293,Credit Card,5.879544207543238,5.0,Average,No,False,False,True,False,0,2024,1,False,False,True,False,False,False,True,False,False,False,True,False
+394,1274,2024-01-29,182,3.0,99.6125518592487,Bank Transfer,6.536953903589541,2.0,Average,Yes,True,False,False,False,1,2024,0,True,False,False,False,True,False,False,False,True,False,False,False
+395,1860,2024-01-30,104,3.0,85.93101068583383,PayPal,6.047725481352245,1.0,Good,No,False,False,False,True,0,2024,0,False,False,False,True,False,False,False,True,False,False,False,True
+396,1043,2024-01-31,128,1.0,110.6363459682122,Cash,3.524874911975753,3.0,Average,Yes,False,True,False,False,1,2024,0,False,True,False,False,False,True,False,False,False,True,False,False
+397,1083,2024-02-01,165,3.0,86.02272515869971,Credit Card,3.084821354739161,1.0,Average,No,False,False,True,False,0,2024,0,False,False,True,False,False,False,True,False,False,False,True,False
+398,1433,2024-02-02,149,3.0,99.6125518592487,PayPal,5.2831309126311865,1.0,Bad,No,False,False,False,True,0,2024,0,False,False,False,True,False,False,False,True,False,False,False,True
+399,1809,2024-02-03,149,3.0,107.02927337939748,PayPal,2.671132079542187,1.0,Average,No,False,False,False,True,0,2024,0,False,False,False,True,False,False,False,True,False,False,False,True
+401,1174,2024-02-05,157,2.0,99.6125518592487,Bank Transfer,4.326558438196222,1.0,Average,Yes,True,False,False,False,1,2024,0,True,False,False,False,True,False,False,False,True,False,False,False
+402,1405,2024-02-06,180,3.0,110.78422311159406,Cash,4.561399026301218,5.0,Bad,No,False,True,False,False,0,2024,1,False,True,False,False,False,True,False,False,False,True,False,False
+403,1201,2024-02-07,141,2.0,99.6125518592487,Credit Card,4.971811981499513,4.0,,No,False,False,True,False,0,2024,1,False,False,True,False,False,False,True,False,False,False,True,False
+404,1857,2024-02-08,190,4.0,59.574418479480784,PayPal,4.336284600581969,4.0,Good,Yes,False,False,False,True,1,2024,1,False,False,False,True,False,False,False,True,False,False,False,True
+406,1480,2024-02-10,147,3.0,107.6560078246481,Credit Card,3.173525557164936,3.0,Good,No,False,False,True,False,0,2024,0,False,False,True,False,False,False,True,False,False,False,True,False
+407,1987,2024-02-11,117,1.0,117.86823445107932,PayPal,1.723403788494842,4.0,Good,Yes,False,False,False,True,1,2024,1,False,False,False,True,False,False,False,True,False,False,False,True
+408,1329,2024-02-12,120,4.0,85.92734687196435,Cash,8.725501227885688,2.0,Average,Yes,False,True,False,False,1,2024,0,False,True,False,False,False,True,False,False,False,True,False,False
+409,1540,2024-02-13,138,0.0,95.1035887711,Bank Transfer,8.264243046393947,3.0,Good,No,True,False,False,False,0,2024,0,True,False,False,False,True,False,False,False,True,False,False,False
+410,1209,2024-02-14,164,3.0,72.18597474996847,Credit Card,3.2890845169427685,1.0,,Yes,False,False,True,False,1,2024,0,False,False,True,False,False,False,True,False,False,False,True,False
+411,1617,2024-02-15,106,3.0,119.27857378582964,Credit Card,3.061393014066318,3.0,Average,Yes,False,False,True,False,1,2024,0,False,False,True,False,False,False,True,False,False,False,True,False
+412,1954,2024-02-16,122,5.0,122.7129310308529,PayPal,7.545666697805126,1.0,Bad,Yes,False,False,False,True,1,2024,0,False,False,False,True,False,False,False,True,False,False,False,True
+413,1896,2024-02-17,179,2.0,141.55512700428196,Bank Transfer,5.226428475753673,4.0,,Yes,True,False,False,False,1,2024,1,True,False,False,False,True,False,False,False,True,False,False,False
+414,1982,2024-02-18,174,3.0,100.55995836997556,Bank Transfer,4.147868270360327,1.0,Bad,No,True,False,False,False,0,2024,0,True,False,False,False,True,False,False,False,True,False,False,False
+416,1016,2024-02-20,140,0.0,97.11938044827797,Bank Transfer,1.99498191222309,1.0,Average,Yes,True,False,False,False,1,2024,0,True,False,False,False,True,False,False,False,True,False,False,False
+417,1106,2024-02-21,138,2.0,99.6125518592487,Bank Transfer,6.867899528265017,5.0,Bad,No,True,False,False,False,0,2024,1,True,False,False,False,True,False,False,False,True,False,False,False
+418,1164,2024-02-22,121,4.0,93.0835221017795,Cash,0.5899888989023969,1.0,,Yes,False,True,False,False,1,2024,0,False,True,False,False,False,True,False,False,False,True,False,False
+419,1606,2024-02-23,134,5.0,99.6125518592487,PayPal,4.788150918648226,5.0,Average,Yes,False,False,False,True,1,2024,1,False,False,False,True,False,False,False,True,False,False,False,True
+420,1536,2024-02-24,132,4.0,119.0755851183206,PayPal,8.573541347926279,2.0,Good,Yes,False,False,False,True,1,2024,0,False,False,False,True,False,False,False,True,False,False,False,True
+422,1191,2024-02-26,144,6.0,75.20111684477716,Cash,6.115066391031636,3.0,Good,No,False,True,False,False,0,2024,0,False,True,False,False,False,True,False,False,False,True,False,False
+423,1195,2024-02-27,199,2.0,96.5157885567252,Credit Card,7.411073032020348,2.0,Good,No,False,False,True,False,0,2024,0,False,False,True,False,False,False,True,False,False,False,True,False
+424,1307,2024-02-28,141,4.0,97.56099776767078,Cash,1.8302507603039728,3.0,Good,No,False,True,False,False,0,2024,0,False,True,False,False,False,True,False,False,False,True,False,False
+425,1136,2024-02-29,127,3.0,96.85970746218004,Bank Transfer,7.86831639757785,2.0,Good,No,True,False,False,False,0,2024,0,True,False,False,False,True,False,False,False,True,False,False,False
+426,1952,2024-03-01,148,3.0,90.1686092437129,PayPal,4.561711767770202,2.0,Average,Yes,False,False,False,True,1,2024,0,False,False,False,True,False,False,False,True,False,False,False,True
+427,1859,2024-03-02,110,1.0,69.74592978758082,Credit Card,5.00825164082644,5.0,,No,False,False,True,False,0,2024,1,False,False,True,False,False,False,True,False,False,False,True,False
+428,1093,2024-03-03,168,4.0,99.6125518592487,PayPal,4.952500147649304,2.0,,Yes,False,False,False,True,1,2024,0,False,False,False,True,False,False,False,True,False,False,False,True
+430,1750,2024-03-05,103,3.0,133.71164028871513,PayPal,5.122894285267754,3.0,Good,Yes,False,False,False,True,1,2024,0,False,False,False,True,False,False,False,True,False,False,False,True
+431,1087,2024-03-06,194,5.0,93.57816177230508,Bank Transfer,4.37194990839398,2.0,Bad,Yes,True,False,False,False,1,2024,0,True,False,False,False,True,False,False,False,True,False,False,False
+433,1147,2024-03-08,129,4.0,92.57129742238148,Bank Transfer,5.503047021286024,1.0,,Yes,True,False,False,False,1,2024,0,True,False,False,False,True,False,False,False,True,False,False,False
+434,1584,2024-03-09,130,4.0,118.0825008815014,PayPal,5.142630194744351,1.0,Good,No,False,False,False,True,0,2024,0,False,False,False,True,False,False,False,True,False,False,False,True
+435,1455,2024-03-10,175,2.0,107.15094211071695,PayPal,4.871333716261079,2.0,,Yes,False,False,False,True,1,2024,0,False,False,False,True,False,False,False,True,False,False,False,True
+436,1087,2024-03-11,166,1.0,88.9419563410036,Bank Transfer,4.81989763737949,2.0,Average,Yes,True,False,False,False,1,2024,0,True,False,False,False,True,False,False,False,True,False,False,False
+437,1013,2024-03-12,193,7.0,66.76648742187952,Bank Transfer,6.8513640599904,4.0,Bad,Yes,True,False,False,False,1,2024,1,True,False,False,False,True,False,False,False,True,False,False,False
+438,1314,2024-03-13,160,3.0,97.45820490300582,Cash,3.4475462858437385,1.0,Bad,No,False,True,False,False,0,2024,0,False,True,False,False,False,True,False,False,False,True,False,False
+439,1593,2024-03-14,107,2.0,99.6125518592487,Cash,6.430988227054444,5.0,,Yes,False,True,False,False,1,2024,1,False,True,False,False,False,True,False,False,False,True,False,False
+440,1120,2024-03-15,151,1.0,86.37818803979678,Bank Transfer,3.1556174315262737,3.0,Good,No,True,False,False,False,0,2024,0,True,False,False,False,True,False,False,False,True,False,False,False
+441,1884,2024-03-16,173,6.0,97.53242483132416,Cash,5.806316989900627,5.0,Average,Yes,False,True,False,False,1,2024,1,False,True,False,False,False,True,False,False,False,True,False,False
+442,1951,2024-03-17,187,3.0,99.6125518592487,Cash,5.534459479147233,1.0,Bad,Yes,False,True,False,False,1,2024,0,False,True,False,False,False,True,False,False,False,True,False,False
+443,1832,2024-03-18,164,4.0,91.86816601072512,PayPal,6.3441524991310505,1.0,,Yes,False,False,False,True,1,2024,0,False,False,False,True,False,False,False,True,False,False,False,True
+444,1715,2024-03-19,117,3.0,78.65271965669929,Bank Transfer,3.2392780838301114,4.0,Good,Yes,True,False,False,False,1,2024,1,True,False,False,False,True,False,False,False,True,False,False,False
+446,1932,2024-03-21,121,4.0,116.6367184819824,Credit Card,1.8213390127646856,5.0,,Yes,False,False,True,False,1,2024,1,False,False,True,False,False,False,True,False,False,False,True,False
+447,1281,2024-03-22,194,4.0,99.6125518592487,Cash,2.7950087517343225,4.0,,No,False,True,False,False,0,2024,1,False,True,False,False,False,True,False,False,False,True,False,False
+449,1426,2024-03-24,115,3.0,88.01411582822078,Cash,6.06217443440719,2.0,Good,Yes,False,True,False,False,1,2024,0,False,True,False,False,False,True,False,False,False,True,False,False
+450,1782,2024-03-25,117,3.0,96.85508715377398,Bank Transfer,4.659335251707201,2.0,Average,No,True,False,False,False,0,2024,0,True,False,False,False,True,False,False,False,True,False,False,False
+452,1284,2024-03-27,117,3.0,68.67792215140177,Credit Card,3.091791843678827,3.0,Good,No,False,False,True,False,0,2024,0,False,False,True,False,False,False,True,False,False,False,True,False
+453,1276,2024-03-28,103,3.0,99.6125518592487,Credit Card,3.781848691928471,3.0,Bad,No,False,False,True,False,0,2024,0,False,False,True,False,False,False,True,False,False,False,True,False
+454,1978,2024-03-29,173,1.0,99.6125518592487,Credit Card,6.4971184566402655,2.0,Average,No,False,False,True,False,0,2024,0,False,False,True,False,False,False,True,False,False,False,True,False
+455,1324,2024-03-30,129,2.0,99.6125518592487,PayPal,4.178733513364946,3.0,Good,Yes,False,False,False,True,1,2024,0,False,False,False,True,False,False,False,True,False,False,False,True
+456,1534,2024-03-31,167,3.0,89.55004072890709,PayPal,4.110470819308813,3.0,Average,No,False,False,False,True,0,2024,0,False,False,False,True,False,False,False,True,False,False,False,True
+457,1227,2024-04-01,171,5.0,106.14467351287732,PayPal,4.918686328227449,2.0,,No,False,False,False,True,0,2024,0,False,False,False,True,False,False,False,True,False,False,False,True
+458,1890,2024-04-02,180,5.0,102.68683646070735,Cash,5.4555432445340895,3.0,Average,Yes,False,True,False,False,1,2024,0,False,True,False,False,False,True,False,False,False,True,False,False
+459,1595,2024-04-03,198,1.0,97.08772598758516,PayPal,7.847035484280488,5.0,Bad,Yes,False,False,False,True,1,2024,1,False,False,False,True,False,False,False,True,False,False,False,True
+460,1647,2024-04-04,104,2.0,93.88866987736849,Cash,3.847611117239257,5.0,Good,No,False,True,False,False,0,2024,1,False,True,False,False,False,True,False,False,False,True,False,False
+461,1968,2024-04-05,161,2.0,100.44676196992114,Cash,3.094438185591847,1.0,Bad,Yes,False,True,False,False,1,2024,0,False,True,False,False,False,True,False,False,False,True,False,False
+462,1573,2024-04-06,190,1.0,100.67674491521063,Bank Transfer,7.32324961864154,3.0,Good,Yes,True,False,False,False,1,2024,0,True,False,False,False,True,False,False,False,True,False,False,False
+464,1517,2024-04-08,132,3.0,133.40385697594144,Cash,9.54886817470462,5.0,,No,False,True,False,False,0,2024,1,False,True,False,False,False,True,False,False,False,True,False,False
+466,1136,2024-04-10,137,1.0,86.95878551837727,Credit Card,6.574978137716519,4.0,,Yes,False,False,True,False,1,2024,1,False,False,True,False,False,False,True,False,False,False,True,False
+467,1207,2024-04-11,127,2.0,90.35691110440972,Credit Card,4.451724919452415,2.0,Average,No,False,False,True,False,0,2024,0,False,False,True,False,False,False,True,False,False,False,True,False
+468,1463,2024-04-12,151,3.0,99.14042726679666,Bank Transfer,9.071622245002974,3.0,,Yes,True,False,False,False,1,2024,0,True,False,False,False,True,False,False,False,True,False,False,False
+469,1949,2024-04-13,178,3.0,99.6125518592487,Cash,3.04393855333018,5.0,,Yes,False,True,False,False,1,2024,1,False,True,False,False,False,True,False,False,False,True,False,False
+470,1139,2024-04-14,159,2.0,142.1315228115718,Credit Card,9.578425324158768,1.0,Bad,No,False,False,True,False,0,2024,0,False,False,True,False,False,False,True,False,False,False,True,False
+471,1004,2024-04-15,186,3.0,99.6125518592487,Bank Transfer,4.995886092516799,4.0,,Yes,True,False,False,False,1,2024,1,True,False,False,False,True,False,False,False,True,False,False,False
+472,1423,2024-04-16,195,6.0,91.03731848127102,Cash,5.076954953461037,4.0,Bad,Yes,False,True,False,False,1,2024,1,False,True,False,False,False,True,False,False,False,True,False,False
+473,1348,2024-04-17,108,3.0,85.25172422255663,PayPal,2.287774422426126,2.0,Bad,Yes,False,False,False,True,1,2024,0,False,False,False,True,False,False,False,True,False,False,False,True
+474,1941,2024-04-18,156,5.0,124.85975782625133,Bank Transfer,9.656006427893564,3.0,,No,True,False,False,False,0,2024,0,True,False,False,False,True,False,False,False,True,False,False,False
+475,1282,2024-04-19,129,1.0,99.6125518592487,PayPal,4.898874887083935,1.0,Good,No,False,False,False,True,0,2024,0,False,False,False,True,False,False,False,True,False,False,False,True
+476,1586,2024-04-20,128,3.0,98.84834026278752,Credit Card,4.32175780439603,3.0,Bad,No,False,False,True,False,0,2024,0,False,False,True,False,False,False,True,False,False,False,True,False
+477,1820,2024-04-21,195,0.0,88.01263667777499,Bank Transfer,6.162607416117115,5.0,Average,Yes,True,False,False,False,1,2024,1,True,False,False,False,True,False,False,False,True,False,False,False
+478,1433,2024-04-22,134,3.0,88.59552506148891,PayPal,3.318184639273422,1.0,,Yes,False,False,False,True,1,2024,0,False,False,False,True,False,False,False,True,False,False,False,True
+479,1219,2024-04-23,158,3.0,94.53107077076476,Credit Card,5.031255601479869,1.0,Good,Yes,False,False,True,False,1,2024,0,False,False,True,False,False,False,True,False,False,False,True,False
+480,1819,2024-04-24,181,3.0,123.41319765802665,PayPal,4.53438477022757,3.0,Bad,No,False,False,False,True,0,2024,0,False,False,False,True,False,False,False,True,False,False,False,True
+481,1739,2024-04-25,192,7.0,107.87523325021684,Cash,5.07532271847276,3.0,Average,No,False,True,False,False,0,2024,0,False,True,False,False,False,True,False,False,False,True,False,False
+482,1873,2024-04-26,116,3.0,117.51889846455524,Cash,3.082676179827112,4.0,Average,No,False,True,False,False,0,2024,1,False,True,False,False,False,True,False,False,False,True,False,False
+484,1373,2024-04-28,159,6.0,86.75894479419946,Bank Transfer,5.544336488758926,5.0,,No,True,False,False,False,0,2024,1,True,False,False,False,True,False,False,False,True,False,False,False
+485,1290,2024-04-29,107,2.0,82.1033763259809,Cash,7.734377285634168,2.0,Bad,Yes,False,True,False,False,1,2024,0,False,True,False,False,False,True,False,False,False,True,False,False
+486,1563,2024-04-30,112,3.0,116.38196783009576,PayPal,6.20778153819131,3.0,Average,Yes,False,False,False,True,1,2024,0,False,False,False,True,False,False,False,True,False,False,False,True
+487,1670,2024-05-01,132,5.0,120.4443879188658,Credit Card,5.454837828908411,5.0,Good,No,False,False,True,False,0,2024,1,False,False,True,False,False,False,True,False,False,False,True,False
+488,1437,2024-05-02,184,3.0,93.7682584843774,Credit Card,6.480191654565141,2.0,,Yes,False,False,True,False,1,2024,0,False,False,True,False,False,False,True,False,False,False,True,False
+489,1826,2024-05-03,175,1.0,102.28138238416112,Credit Card,3.766910022039732,3.0,,No,False,False,True,False,0,2024,0,False,False,True,False,False,False,True,False,False,False,True,False
+490,1939,2024-05-04,193,1.0,84.94657791589518,Bank Transfer,6.8432401648958585,2.0,Bad,No,True,False,False,False,0,2024,0,True,False,False,False,True,False,False,False,True,False,False,False
+491,1823,2024-05-05,140,3.0,99.6125518592487,Bank Transfer,2.0574990889792724,5.0,Average,Yes,True,False,False,False,1,2024,1,True,False,False,False,True,False,False,False,True,False,False,False
+492,1508,2024-05-06,100,5.0,97.66555423042824,Credit Card,5.001020729022361,4.0,,No,False,False,True,False,0,2024,1,False,False,True,False,False,False,True,False,False,False,True,False
+494,1941,2024-05-08,192,7.0,112.21448394230042,Cash,5.869476525745685,4.0,,Yes,False,True,False,False,1,2024,1,False,True,False,False,False,True,False,False,False,True,False,False
+495,1855,2024-05-09,177,2.0,99.6125518592487,PayPal,0.561481548259704,1.0,Average,No,False,False,False,True,0,2024,0,False,False,False,True,False,False,False,True,False,False,False,True
+496,1449,2024-05-10,137,3.0,83.63567443594116,Cash,7.613079488684749,2.0,,Yes,False,True,False,False,1,2024,0,False,True,False,False,False,True,False,False,False,True,False,False
+497,1326,2024-05-11,147,3.0,113.70179189169129,Credit Card,4.775720958499321,3.0,Average,Yes,False,False,True,False,1,2024,0,False,False,True,False,False,False,True,False,False,False,True,False
+498,1490,2024-05-12,161,1.0,99.6125518592487,Credit Card,3.850143093877692,3.0,,Yes,False,False,True,False,1,2024,0,False,False,True,False,False,False,True,False,False,False,True,False
+500,1816,2024-05-14,168,2.0,108.26888199296216,PayPal,7.975527570525663,4.0,Bad,No,False,False,False,True,0,2024,1,False,False,False,True,False,False,False,True,False,False,False,True
+502,1059,2024-05-16,157,2.0,100.74355005638604,Cash,1.339540657286912,1.0,Good,Yes,False,True,False,False,1,2024,0,False,True,False,False,False,True,False,False,False,True,False,False
+503,1336,2024-05-17,104,2.0,99.6125518592487,Credit Card,6.388354906393493,1.0,Average,No,False,False,True,False,0,2024,0,False,False,True,False,False,False,True,False,False,False,True,False
+504,1666,2024-05-18,136,2.0,82.16571847213535,PayPal,7.264463141290424,1.0,Bad,No,False,False,False,True,0,2024,0,False,False,False,True,False,False,False,True,False,False,False,True
+506,1163,2024-05-20,182,0.0,80.87361458418228,PayPal,3.016146745637404,5.0,,No,False,False,False,True,0,2024,1,False,False,False,True,False,False,False,True,False,False,False,True
+507,1570,2024-05-21,137,3.0,110.94895351891736,Bank Transfer,4.33794482672179,1.0,,No,True,False,False,False,0,2024,0,True,False,False,False,True,False,False,False,True,False,False,False
+508,1945,2024-05-22,194,3.0,129.43936241533527,Cash,5.377048836342369,1.0,Bad,Yes,False,True,False,False,1,2024,0,False,True,False,False,False,True,False,False,False,True,False,False
+509,1106,2024-05-23,135,3.0,144.8987594436977,Bank Transfer,4.54467772417131,5.0,Bad,Yes,True,False,False,False,1,2024,1,True,False,False,False,True,False,False,False,True,False,False,False
+510,1201,2024-05-24,148,3.0,117.48047321490913,Credit Card,4.728267827484244,3.0,,No,False,False,True,False,0,2024,0,False,False,True,False,False,False,True,False,False,False,True,False
+511,1300,2024-05-25,100,2.0,107.71657442099324,Cash,7.235110486064264,3.0,Bad,No,False,True,False,False,0,2024,0,False,True,False,False,False,True,False,False,False,True,False,False
+512,1781,2024-05-26,149,4.0,107.01645666634052,PayPal,4.100207961195302,4.0,Average,Yes,False,False,False,True,1,2024,1,False,False,False,True,False,False,False,True,False,False,False,True
+513,1889,2024-05-27,157,2.0,99.6125518592487,Bank Transfer,6.506633597559556,3.0,,No,True,False,False,False,0,2024,0,True,False,False,False,True,False,False,False,True,False,False,False
+514,1838,2024-05-28,109,3.0,88.07825014144856,Credit Card,2.1762253596587664,1.0,,No,False,False,True,False,0,2024,0,False,False,True,False,False,False,True,False,False,False,True,False
+515,1550,2024-05-29,150,3.0,112.41153240351652,Credit Card,6.287095517833153,4.0,Good,Yes,False,False,True,False,1,2024,1,False,False,True,False,False,False,True,False,False,False,True,False
+516,1679,2024-05-30,197,2.0,100.16116596406428,Credit Card,3.1675188212208267,5.0,Bad,No,False,False,True,False,0,2024,1,False,False,True,False,False,False,True,False,False,False,True,False
+517,1648,2024-05-31,148,2.0,92.4106569806954,Credit Card,4.134331208152778,5.0,Average,Yes,False,False,True,False,1,2024,1,False,False,True,False,False,False,True,False,False,False,True,False
+518,1013,2024-06-01,112,4.0,77.99883933040749,PayPal,4.988565018290208,2.0,Bad,No,False,False,False,True,0,2024,0,False,False,False,True,False,False,False,True,False,False,False,True
+519,1903,2024-06-02,170,0.0,100.91297900846854,Cash,5.3576230483964045,4.0,,Yes,False,True,False,False,1,2024,1,False,True,False,False,False,True,False,False,False,True,False,False
+520,1720,2024-06-03,136,0.0,123.14271195097666,Credit Card,6.657194844689116,5.0,Bad,No,False,False,True,False,0,2024,1,False,False,True,False,False,False,True,False,False,False,True,False
+522,1504,2024-06-05,136,3.0,127.2086047232941,PayPal,4.672422558316191,1.0,Average,No,False,False,False,True,0,2024,0,False,False,False,True,False,False,False,True,False,False,False,True
+524,1985,2024-06-07,119,4.0,99.6125518592487,PayPal,3.1933707286215487,2.0,Average,Yes,False,False,False,True,1,2024,0,False,False,False,True,False,False,False,True,False,False,False,True
+525,1776,2024-06-08,138,2.0,111.07895573777591,PayPal,6.213559221976362,2.0,Average,Yes,False,False,False,True,1,2024,0,False,False,False,True,False,False,False,True,False,False,False,True
+527,1774,2024-06-10,135,0.0,62.34083291999088,Credit Card,3.9109432628098286,3.0,Bad,No,False,False,True,False,0,2024,0,False,False,True,False,False,False,True,False,False,False,True,False
+529,1455,2024-06-12,129,3.0,99.6125518592487,Credit Card,4.824744026067687,3.0,Average,No,False,False,True,False,0,2024,0,False,False,True,False,False,False,True,False,False,False,True,False
+530,1468,2024-06-13,151,1.0,86.96387520692289,PayPal,5.106646949053832,2.0,Good,Yes,False,False,False,True,1,2024,0,False,False,False,True,False,False,False,True,False,False,False,True
+531,1473,2024-06-14,160,1.0,72.18936034767789,Cash,6.150846887946126,5.0,Average,No,False,True,False,False,0,2024,1,False,True,False,False,False,True,False,False,False,True,False,False
+532,1962,2024-06-15,181,6.0,76.6412566547551,Credit Card,9.297770715124775,3.0,Bad,No,False,False,True,False,0,2024,0,False,False,True,False,False,False,True,False,False,False,True,False
+533,1572,2024-06-16,167,4.0,128.90900475618724,PayPal,1.1994052824750994,3.0,Bad,Yes,False,False,False,True,1,2024,0,False,False,False,True,False,False,False,True,False,False,False,True
+534,1400,2024-06-17,129,4.0,95.57893281596874,PayPal,5.3508228575000425,5.0,Good,No,False,False,False,True,0,2024,1,False,False,False,True,False,False,False,True,False,False,False,True
+535,1056,2024-06-18,127,4.0,118.90884918173124,Credit Card,3.879572608386666,3.0,,Yes,False,False,True,False,1,2024,0,False,False,True,False,False,False,True,False,False,False,True,False
+536,1882,2024-06-19,103,4.0,92.67752440456763,Cash,7.8863240455812385,5.0,,No,False,True,False,False,0,2024,1,False,True,False,False,False,True,False,False,False,True,False,False
+537,1749,2024-06-20,133,4.0,101.68968423829806,Credit Card,7.220552342820653,1.0,,No,False,False,True,False,0,2024,0,False,False,True,False,False,False,True,False,False,False,True,False
+538,1663,2024-06-21,151,1.0,117.9312009190519,Bank Transfer,1.7643285055878386,4.0,Average,Yes,True,False,False,False,1,2024,1,True,False,False,False,True,False,False,False,True,False,False,False
+539,1280,2024-06-22,127,2.0,99.6125518592487,Credit Card,6.437051202956446,5.0,Average,No,False,False,True,False,0,2024,1,False,False,True,False,False,False,True,False,False,False,True,False
+540,1004,2024-06-23,156,5.0,62.66504966234781,Bank Transfer,3.3406130538449705,5.0,Bad,No,True,False,False,False,0,2024,1,True,False,False,False,True,False,False,False,True,False,False,False
+541,1612,2024-06-24,121,6.0,94.11099264179356,Bank Transfer,4.859184128613877,5.0,Average,Yes,True,False,False,False,1,2024,1,True,False,False,False,True,False,False,False,True,False,False,False
+542,1305,2024-06-25,139,4.0,96.22140638105968,PayPal,3.034701677314185,4.0,,No,False,False,False,True,0,2024,1,False,False,False,True,False,False,False,True,False,False,False,True
+543,1343,2024-06-26,174,3.0,126.06313804835516,Cash,7.626024443013394,2.0,Good,Yes,False,True,False,False,1,2024,0,False,True,False,False,False,True,False,False,False,True,False,False
+544,1542,2024-06-27,129,4.0,89.62519140685015,Credit Card,5.300257428034104,1.0,Good,No,False,False,True,False,0,2024,0,False,False,True,False,False,False,True,False,False,False,True,False
+545,1566,2024-06-28,129,3.0,117.92797400008403,Cash,2.630713846735052,5.0,Bad,No,False,True,False,False,0,2024,1,False,True,False,False,False,True,False,False,False,True,False,False
+546,1153,2024-06-29,161,2.0,109.5591132873934,Bank Transfer,5.228667868553636,3.0,Good,No,True,False,False,False,0,2024,0,True,False,False,False,True,False,False,False,True,False,False,False
+548,1353,2024-07-01,124,3.0,99.6125518592487,Bank Transfer,5.144152955450568,5.0,,Yes,True,False,False,False,1,2024,1,True,False,False,False,True,False,False,False,True,False,False,False
+549,1357,2024-07-02,116,5.0,88.62473769401721,Cash,0.0907806795719565,2.0,Good,No,False,True,False,False,0,2024,0,False,True,False,False,False,True,False,False,False,True,False,False
+550,1697,2024-07-03,164,3.0,100.5588759575204,Cash,4.581014309237444,3.0,Good,No,False,True,False,False,0,2024,0,False,True,False,False,False,True,False,False,False,True,False,False
+551,1407,2024-07-04,198,2.0,99.6125518592487,Cash,4.773308383056196,5.0,Good,Yes,False,True,False,False,1,2024,1,False,True,False,False,False,True,False,False,False,True,False,False
+553,1029,2024-07-06,101,5.0,99.6125518592487,Bank Transfer,3.4815163677385232,3.0,Average,Yes,True,False,False,False,1,2024,0,True,False,False,False,True,False,False,False,True,False,False,False
+554,1929,2024-07-07,102,2.0,89.62511022555317,Credit Card,4.919772297325743,4.0,Bad,Yes,False,False,True,False,1,2024,1,False,False,True,False,False,False,True,False,False,False,True,False
+555,1371,2024-07-08,166,4.0,104.18194890436057,PayPal,6.194583707450018,1.0,Good,Yes,False,False,False,True,1,2024,0,False,False,False,True,False,False,False,True,False,False,False,True
+556,1821,2024-07-09,119,2.0,123.43837367887082,Cash,5.510831957456071,3.0,Good,No,False,True,False,False,0,2024,0,False,True,False,False,False,True,False,False,False,True,False,False
+559,1854,2024-07-12,139,3.0,102.50835987584593,Bank Transfer,4.988565018290208,1.0,Average,Yes,True,False,False,False,1,2024,0,True,False,False,False,True,False,False,False,True,False,False,False
+560,1502,2024-07-13,185,4.0,68.57926895598325,Credit Card,5.754206657697035,1.0,,No,False,False,True,False,0,2024,0,False,False,True,False,False,False,True,False,False,False,True,False
+561,1007,2024-07-14,177,0.0,84.28264571352767,Cash,4.683498022038783,4.0,Bad,Yes,False,True,False,False,1,2024,1,False,True,False,False,False,True,False,False,False,True,False,False
+562,1617,2024-07-15,149,4.0,93.97309835484984,Credit Card,6.000628743720396,5.0,Average,Yes,False,False,True,False,1,2024,1,False,False,True,False,False,False,True,False,False,False,True,False
+563,1137,2024-07-16,126,5.0,88.60697835930986,PayPal,5.434400356628304,2.0,,No,False,False,False,True,0,2024,0,False,False,False,True,False,False,False,True,False,False,False,True
+565,1896,2024-07-18,164,5.0,124.41828423696,PayPal,4.572593223988317,4.0,Good,No,False,False,False,True,0,2024,1,False,False,False,True,False,False,False,True,False,False,False,True
+566,1851,2024-07-19,101,2.0,79.09592907358157,Bank Transfer,5.558794885764527,5.0,Bad,No,True,False,False,False,0,2024,1,True,False,False,False,True,False,False,False,True,False,False,False
+567,1376,2024-07-20,136,3.0,124.05022874272208,Cash,3.038410576704799,5.0,,Yes,False,True,False,False,1,2024,1,False,True,False,False,False,True,False,False,False,True,False,False
+568,1932,2024-07-21,110,3.0,89.33087265333873,Bank Transfer,4.530325977869474,3.0,,Yes,True,False,False,False,1,2024,0,True,False,False,False,True,False,False,False,True,False,False,False
+569,1721,2024-07-22,132,3.0,64.40477586840018,Bank Transfer,6.627235782836346,3.0,Good,Yes,True,False,False,False,1,2024,0,True,False,False,False,True,False,False,False,True,False,False,False
+570,1148,2024-07-23,128,3.0,120.76316506699573,Cash,6.449933511465707,1.0,Bad,No,False,True,False,False,0,2024,0,False,True,False,False,False,True,False,False,False,True,False,False
+571,1885,2024-07-24,158,2.0,72.58833933095794,Credit Card,4.689993525850679,5.0,Average,No,False,False,True,False,0,2024,1,False,False,True,False,False,False,True,False,False,False,True,False
+572,1259,2024-07-25,166,3.0,65.65134681862548,Cash,7.017052372091681,1.0,Good,No,False,True,False,False,0,2024,0,False,True,False,False,False,True,False,False,False,True,False,False
+573,1126,2024-07-26,192,5.0,123.37315857327532,Credit Card,7.076379559805512,4.0,,No,False,False,True,False,0,2024,1,False,False,True,False,False,False,True,False,False,False,True,False
+574,1810,2024-07-27,165,4.0,89.47999670463398,Bank Transfer,5.785854702229865,1.0,Good,Yes,True,False,False,False,1,2024,0,True,False,False,False,True,False,False,False,True,False,False,False
+575,1577,2024-07-28,177,2.0,101.63073675019568,Credit Card,4.525082309478339,4.0,Bad,No,False,False,True,False,0,2024,1,False,False,True,False,False,False,True,False,False,False,True,False
+577,1804,2024-07-30,147,6.0,109.73607613193236,Bank Transfer,4.412334829812565,5.0,Average,Yes,True,False,False,False,1,2024,1,True,False,False,False,True,False,False,False,True,False,False,False
+578,1324,2024-07-31,181,2.0,105.44857764829464,Bank Transfer,3.281633005494337,1.0,Average,Yes,True,False,False,False,1,2024,0,True,False,False,False,True,False,False,False,True,False,False,False
+579,1976,2024-08-01,136,4.0,87.77598551715451,PayPal,7.292188140031113,5.0,,No,False,False,False,True,0,2024,1,False,False,False,True,False,False,False,True,False,False,False,True
+580,1112,2024-08-02,171,3.0,92.35080293410748,PayPal,4.297128353895496,4.0,Average,Yes,False,False,False,True,1,2024,1,False,False,False,True,False,False,False,True,False,False,False,True
+581,1943,2024-08-03,153,4.0,61.815762973588114,Cash,6.691577838541301,3.0,Bad,No,False,True,False,False,0,2024,0,False,True,False,False,False,True,False,False,False,True,False,False
+582,1650,2024-08-04,170,3.0,101.75566522121848,Cash,5.039591534761364,2.0,Bad,Yes,False,True,False,False,1,2024,0,False,True,False,False,False,True,False,False,False,True,False,False
+583,1237,2024-08-05,109,5.0,111.9972974393068,Cash,3.5851738983765795,2.0,Good,No,False,True,False,False,0,2024,0,False,True,False,False,False,True,False,False,False,True,False,False
+584,1360,2024-08-06,115,2.0,99.6125518592487,Bank Transfer,4.753970535386412,5.0,,Yes,True,False,False,False,1,2024,1,True,False,False,False,True,False,False,False,True,False,False,False
+585,1990,2024-08-07,118,4.0,122.33188605962803,PayPal,0.3889981856524622,4.0,Average,No,False,False,False,True,0,2024,1,False,False,False,True,False,False,False,True,False,False,False,True
+586,1859,2024-08-08,129,3.0,59.23075030345459,Cash,2.8218402202266546,5.0,,No,False,True,False,False,0,2024,1,False,True,False,False,False,True,False,False,False,True,False,False
+587,1555,2024-08-09,153,3.0,110.86152064128387,Cash,9.1571607720706,5.0,Average,No,False,True,False,False,0,2024,1,False,True,False,False,False,True,False,False,False,True,False,False
+588,1063,2024-08-10,160,1.0,120.5335044887396,PayPal,6.470378256241368,3.0,,No,False,False,False,True,0,2024,0,False,False,False,True,False,False,False,True,False,False,False,True
+589,1927,2024-08-11,142,2.0,132.44114913607908,Credit Card,5.310760850133593,5.0,Bad,Yes,False,False,True,False,1,2024,1,False,False,True,False,False,False,True,False,False,False,True,False
+590,1916,2024-08-12,182,2.0,118.47567300469063,Bank Transfer,3.833694516727245,1.0,Average,No,True,False,False,False,0,2024,0,True,False,False,False,True,False,False,False,True,False,False,False
+592,1265,2024-08-14,129,2.0,99.6125518592487,Credit Card,2.8807009083011077,2.0,,Yes,False,False,True,False,1,2024,0,False,False,True,False,False,False,True,False,False,False,True,False
+593,1444,2024-08-15,117,3.0,94.05449617440756,Cash,4.27238702257747,5.0,Average,Yes,False,True,False,False,1,2024,1,False,True,False,False,False,True,False,False,False,True,False,False
+594,1603,2024-08-16,135,3.0,101.57074550189044,Bank Transfer,2.247246576542554,5.0,,No,True,False,False,False,0,2024,1,True,False,False,False,True,False,False,False,True,False,False,False
+595,1623,2024-08-17,119,4.0,78.44150746362453,Cash,4.73682878369334,2.0,Average,No,False,True,False,False,0,2024,0,False,True,False,False,False,True,False,False,False,True,False,False
+596,1419,2024-08-18,116,5.0,113.04758695433952,Credit Card,4.458684977254118,3.0,,Yes,False,False,True,False,1,2024,0,False,False,True,False,False,False,True,False,False,False,True,False
+597,1339,2024-08-19,123,3.0,68.42868154174818,Cash,4.911354553391259,3.0,Bad,Yes,False,True,False,False,1,2024,0,False,True,False,False,False,True,False,False,False,True,False,False
+598,1844,2024-08-20,112,4.0,112.85131444285526,Bank Transfer,3.368408275964174,4.0,Bad,Yes,True,False,False,False,1,2024,1,True,False,False,False,True,False,False,False,True,False,False,False
+599,1274,2024-08-21,199,3.0,134.35602283051008,Cash,8.104284490183968,1.0,Bad,Yes,False,True,False,False,1,2024,0,False,True,False,False,False,True,False,False,False,True,False,False
+600,1369,2024-08-22,156,3.0,92.13369128356696,Cash,5.913776817190155,3.0,Bad,No,False,True,False,False,0,2024,0,False,True,False,False,False,True,False,False,False,True,False,False
+602,1226,2024-08-24,120,1.0,86.34288445291308,PayPal,6.562614455424788,1.0,Bad,Yes,False,False,False,True,1,2024,0,False,False,False,True,False,False,False,True,False,False,False,True
+603,1225,2024-08-25,103,2.0,86.45664611346632,Cash,3.8639345299373593,3.0,,No,False,True,False,False,0,2024,0,False,True,False,False,False,True,False,False,False,True,False,False
+604,1939,2024-08-26,181,0.0,114.19652126506575,Bank Transfer,5.330052300771841,4.0,Bad,No,True,False,False,False,0,2024,1,True,False,False,False,True,False,False,False,True,False,False,False
+605,1643,2024-08-27,144,2.0,102.22687472387146,Cash,7.181889246847826,1.0,Average,No,False,True,False,False,0,2024,0,False,True,False,False,False,True,False,False,False,True,False,False
+609,1897,2024-08-31,137,5.0,114.33416520578908,Credit Card,4.993893906106727,1.0,,No,False,False,True,False,0,2024,0,False,False,True,False,False,False,True,False,False,False,True,False
+610,1369,2024-09-01,140,1.0,72.45497347501288,Credit Card,3.226388971847692,1.0,,No,False,False,True,False,0,2024,0,False,False,True,False,False,False,True,False,False,False,True,False
+611,1128,2024-09-02,127,1.0,101.59944396437358,Cash,0.0037923480696404,1.0,Good,No,False,True,False,False,0,2024,0,False,True,False,False,False,True,False,False,False,True,False,False
+612,1807,2024-09-03,104,2.0,118.79019636118166,Bank Transfer,7.093470385439272,2.0,Average,Yes,True,False,False,False,1,2024,0,True,False,False,False,True,False,False,False,True,False,False,False
+613,1024,2024-09-04,151,2.0,99.6125518592487,Credit Card,3.799900268210596,1.0,,No,False,False,True,False,0,2024,0,False,False,True,False,False,False,True,False,False,False,True,False
+614,1698,2024-09-05,122,2.0,108.47854606046768,Cash,5.892598347010121,2.0,Average,No,False,True,False,False,0,2024,0,False,True,False,False,False,True,False,False,False,True,False,False
+615,1292,2024-09-06,137,2.0,85.4990089159409,Bank Transfer,6.075389950741644,1.0,Average,Yes,True,False,False,False,1,2024,0,True,False,False,False,True,False,False,False,True,False,False,False
+616,1355,2024-09-07,135,1.0,112.69382818876956,Credit Card,3.36302698367065,1.0,,No,False,False,True,False,0,2024,0,False,False,True,False,False,False,True,False,False,False,True,False
+617,1837,2024-09-08,130,1.0,103.07304510102382,Bank Transfer,5.394486827469774,2.0,,Yes,True,False,False,False,1,2024,0,True,False,False,False,True,False,False,False,True,False,False,False
+618,1134,2024-09-09,107,2.0,80.05416703189988,Credit Card,9.014686282672637,1.0,Average,No,False,False,True,False,0,2024,0,False,False,True,False,False,False,True,False,False,False,True,False
+619,1003,2024-09-10,188,3.0,78.66149327807761,Bank Transfer,2.8267815787148223,3.0,Average,Yes,True,False,False,False,1,2024,0,True,False,False,False,True,False,False,False,True,False,False,False
+620,1226,2024-09-11,188,3.0,85.9288216542481,Cash,7.690826213270594,2.0,,No,False,True,False,False,0,2024,0,False,True,False,False,False,True,False,False,False,True,False,False
+621,1889,2024-09-12,115,4.0,104.97693228385074,Credit Card,1.365955811649309,5.0,Bad,Yes,False,False,True,False,1,2024,1,False,False,True,False,False,False,True,False,False,False,True,False
+622,1680,2024-09-13,110,5.0,99.37967655756772,Cash,0.5599934660976089,3.0,,No,False,True,False,False,0,2024,0,False,True,False,False,False,True,False,False,False,True,False,False
+623,1444,2024-09-14,119,5.0,72.09993501157507,Bank Transfer,4.291337286224401,1.0,Average,No,True,False,False,False,0,2024,0,True,False,False,False,True,False,False,False,True,False,False,False
+624,1417,2024-09-15,177,4.0,116.71979262525446,Cash,4.828419010372724,1.0,Average,No,False,True,False,False,0,2024,0,False,True,False,False,False,True,False,False,False,True,False,False
+625,1284,2024-09-16,156,3.0,80.61211929845604,Bank Transfer,4.256205758984347,5.0,Average,No,True,False,False,False,0,2024,1,True,False,False,False,True,False,False,False,True,False,False,False
+626,1836,2024-09-17,118,5.0,117.99395737497024,Credit Card,4.384775235429848,3.0,Bad,Yes,False,False,True,False,1,2024,0,False,False,True,False,False,False,True,False,False,False,True,False
+627,1026,2024-09-18,171,0.0,112.8623127015614,Bank Transfer,5.441017910427863,2.0,Bad,Yes,True,False,False,False,1,2024,0,True,False,False,False,True,False,False,False,True,False,False,False
+628,1736,2024-09-19,160,5.0,124.50419672541707,Cash,4.33199326752133,3.0,,No,False,True,False,False,0,2024,0,False,True,False,False,False,True,False,False,False,True,False,False
+629,1248,2024-09-20,124,1.0,73.66575277082298,Credit Card,8.016681586220908,5.0,Bad,No,False,False,True,False,0,2024,1,False,False,True,False,False,False,True,False,False,False,True,False
+631,1947,2024-09-22,139,3.0,111.94544846755312,Credit Card,6.30074687064142,2.0,Average,No,False,False,True,False,0,2024,0,False,False,True,False,False,False,True,False,False,False,True,False
+632,1201,2024-09-23,116,3.0,71.92789811284777,PayPal,1.7864815346610778,4.0,,Yes,False,False,False,True,1,2024,1,False,False,False,True,False,False,False,True,False,False,False,True
+633,1437,2024-09-24,152,2.0,111.58764357671126,Credit Card,3.11627510293368,1.0,Good,Yes,False,False,True,False,1,2024,0,False,False,True,False,False,False,True,False,False,False,True,False
+634,1197,2024-09-25,190,3.0,99.6125518592487,PayPal,4.679680620932798,2.0,Average,No,False,False,False,True,0,2024,0,False,False,False,True,False,False,False,True,False,False,False,True
+635,1929,2024-09-26,180,5.0,71.59669920518309,Cash,5.186425535558182,2.0,Bad,Yes,False,True,False,False,1,2024,0,False,True,False,False,False,True,False,False,False,True,False,False
+636,1647,2024-09-27,146,5.0,113.7434593420023,Bank Transfer,5.478230711300533,4.0,Average,Yes,True,False,False,False,1,2024,1,True,False,False,False,True,False,False,False,True,False,False,False
+637,1637,2024-09-28,196,2.0,125.36802046749204,Bank Transfer,4.266559374517017,4.0,,Yes,True,False,False,False,1,2024,1,True,False,False,False,True,False,False,False,True,False,False,False
+638,1606,2024-09-29,194,1.0,84.85646814117378,Cash,7.718065898313882,2.0,,Yes,False,True,False,False,1,2024,0,False,True,False,False,False,True,False,False,False,True,False,False
+639,1072,2024-09-30,184,1.0,93.7357260747645,PayPal,5.406422013287046,5.0,Bad,Yes,False,False,False,True,1,2024,1,False,False,False,True,False,False,False,True,False,False,False,True
+640,1246,2024-10-01,123,2.0,88.4880940947718,PayPal,5.933916332863508,4.0,Bad,No,False,False,False,True,0,2024,1,False,False,False,True,False,False,False,True,False,False,False,True
+641,1852,2024-10-02,115,2.0,67.59610386214136,Bank Transfer,5.763932058856449,3.0,Good,No,True,False,False,False,0,2024,0,True,False,False,False,True,False,False,False,True,False,False,False
+642,1135,2024-10-03,144,1.0,74.48529547745366,Cash,3.655322435051135,5.0,Bad,No,False,True,False,False,0,2024,1,False,True,False,False,False,True,False,False,False,True,False,False
+643,1707,2024-10-04,183,2.0,88.31559909291548,PayPal,4.974701710936074,3.0,,No,False,False,False,True,0,2024,0,False,False,False,True,False,False,False,True,False,False,False,True
+644,1213,2024-10-05,155,2.0,99.6125518592487,Credit Card,4.430311941944069,3.0,Good,Yes,False,False,True,False,1,2024,0,False,False,True,False,False,False,True,False,False,False,True,False
+645,1475,2024-10-06,198,1.0,125.08529436435472,Cash,7.664467788434057,5.0,Average,Yes,False,True,False,False,1,2024,1,False,True,False,False,False,True,False,False,False,True,False,False
+646,1620,2024-10-07,127,3.0,92.84015175018132,Cash,5.452685066817331,2.0,Average,Yes,False,True,False,False,1,2024,0,False,True,False,False,False,True,False,False,False,True,False,False
+647,1323,2024-10-08,145,1.0,87.8368144937813,Credit Card,4.712224550931974,1.0,,No,False,False,True,False,0,2024,0,False,False,True,False,False,False,True,False,False,False,True,False
+648,1102,2024-10-09,198,3.0,112.10800028990526,Cash,4.968921582489972,3.0,Bad,No,False,True,False,False,0,2024,0,False,True,False,False,False,True,False,False,False,True,False,False
+649,1852,2024-10-10,181,4.0,79.55158127299154,Credit Card,6.411577236695962,5.0,,Yes,False,False,True,False,1,2024,1,False,False,True,False,False,False,True,False,False,False,True,False
+650,1327,2024-10-11,187,3.0,91.91271950669164,PayPal,3.6105821108327194,3.0,Good,No,False,False,False,True,0,2024,0,False,False,False,True,False,False,False,True,False,False,False,True
+651,1595,2024-10-12,127,7.0,99.6125518592487,PayPal,5.268165426011955,1.0,,No,False,False,False,True,0,2024,0,False,False,False,True,False,False,False,True,False,False,False,True
+655,1347,2024-10-16,194,3.0,134.97370655088633,Bank Transfer,3.704994544159291,3.0,Average,No,True,False,False,False,0,2024,0,True,False,False,False,True,False,False,False,True,False,False,False
+657,1926,2024-10-18,197,4.0,99.6125518592487,PayPal,5.100657037269461,5.0,Bad,No,False,False,False,True,0,2024,1,False,False,False,True,False,False,False,True,False,False,False,True
+658,1969,2024-10-19,198,3.0,143.32336164797806,Credit Card,5.346903192246841,2.0,,Yes,False,False,True,False,1,2024,0,False,False,True,False,False,False,True,False,False,False,True,False
+659,1979,2024-10-20,128,1.0,95.49929590507716,PayPal,6.652450689044006,1.0,Average,No,False,False,False,True,0,2024,0,False,False,False,True,False,False,False,True,False,False,False,True
+660,1519,2024-10-21,165,4.0,95.68104248488588,Credit Card,5.687887025814076,4.0,Average,No,False,False,True,False,0,2024,1,False,False,True,False,False,False,True,False,False,False,True,False
+662,1997,2024-10-23,185,1.0,100.7395341708695,Credit Card,8.511664005236355,1.0,Average,No,False,False,True,False,0,2024,0,False,False,True,False,False,False,True,False,False,False,True,False
+666,1558,2024-10-27,148,3.0,80.7571517989019,Cash,4.5276133884862855,1.0,,Yes,False,True,False,False,1,2024,0,False,True,False,False,False,True,False,False,False,True,False,False
+667,1000,2024-10-28,199,1.0,117.93686460934585,Cash,4.216356389408566,5.0,Good,No,False,True,False,False,0,2024,1,False,True,False,False,False,True,False,False,False,True,False,False
+668,1360,2024-10-29,189,3.0,98.78641216800716,PayPal,4.827482917069681,4.0,Average,Yes,False,False,False,True,1,2024,1,False,False,False,True,False,False,False,True,False,False,False,True
+669,1691,2024-10-30,169,4.0,105.01096386921516,PayPal,3.5863905825134395,2.0,,Yes,False,False,False,True,1,2024,0,False,False,False,True,False,False,False,True,False,False,False,True
+670,1550,2024-10-31,165,2.0,136.8972216640581,PayPal,7.133287300060145,2.0,Average,Yes,False,False,False,True,1,2024,0,False,False,False,True,False,False,False,True,False,False,False,True
+671,1089,2024-11-01,199,2.0,126.91403724241968,Cash,2.65596643705454,5.0,Bad,No,False,True,False,False,0,2024,1,False,True,False,False,False,True,False,False,False,True,False,False
+672,1074,2024-11-02,171,4.0,116.24204870715258,Credit Card,8.449280493517444,5.0,Bad,Yes,False,False,True,False,1,2024,1,False,False,True,False,False,False,True,False,False,False,True,False
+673,1499,2024-11-03,101,3.0,97.68068583185531,Credit Card,1.7218966150993968,2.0,Bad,No,False,False,True,False,0,2024,0,False,False,True,False,False,False,True,False,False,False,True,False
+675,1635,2024-11-05,171,3.0,82.08655796223475,PayPal,4.632148638844269,3.0,,Yes,False,False,False,True,1,2024,0,False,False,False,True,False,False,False,True,False,False,False,True
+678,1851,2024-11-08,150,5.0,78.34569798230405,Cash,3.384154364900428,5.0,,No,False,True,False,False,0,2024,1,False,True,False,False,False,True,False,False,False,True,False,False
+679,1282,2024-11-09,127,1.0,73.4985637632911,Bank Transfer,7.498477713185464,5.0,,Yes,True,False,False,False,1,2024,1,True,False,False,False,True,False,False,False,True,False,False,False
+680,1718,2024-11-10,196,3.0,99.6125518592487,Cash,2.1613336316828984,2.0,,No,False,True,False,False,0,2024,0,False,True,False,False,False,True,False,False,False,True,False,False
+681,1032,2024-11-11,143,3.0,96.81015056046844,Bank Transfer,7.936448311151944,4.0,Bad,Yes,True,False,False,False,1,2024,1,True,False,False,False,True,False,False,False,True,False,False,False
+682,1115,2024-11-12,119,4.0,138.45080975440533,Bank Transfer,3.841126331281908,1.0,Bad,No,True,False,False,False,0,2024,0,True,False,False,False,True,False,False,False,True,False,False,False
+683,1454,2024-11-13,198,6.0,76.66972563323881,PayPal,4.941988226455844,2.0,Good,Yes,False,False,False,True,1,2024,0,False,False,False,True,False,False,False,True,False,False,False,True
+684,1865,2024-11-14,145,2.0,70.10277902391938,Cash,7.127491651640719,1.0,,Yes,False,True,False,False,1,2024,0,False,True,False,False,False,True,False,False,False,True,False,False
+685,1428,2024-11-15,180,1.0,136.02376220349555,PayPal,2.370042212390317,2.0,Good,Yes,False,False,False,True,1,2024,0,False,False,False,True,False,False,False,True,False,False,False,True
+686,1827,2024-11-16,143,4.0,85.96609461890517,Bank Transfer,6.962243345630267,5.0,Good,Yes,True,False,False,False,1,2024,1,True,False,False,False,True,False,False,False,True,False,False,False
+687,1825,2024-11-17,167,1.0,86.22946411048531,Credit Card,7.9291527013793,4.0,Average,No,False,False,True,False,0,2024,1,False,False,True,False,False,False,True,False,False,False,True,False
+688,1690,2024-11-18,108,3.0,103.23643788782414,PayPal,7.71610168436943,3.0,Good,Yes,False,False,False,True,1,2024,0,False,False,False,True,False,False,False,True,False,False,False,True
+689,1173,2024-11-19,183,1.0,94.69288005473662,Credit Card,2.520921243790596,2.0,Average,No,False,False,True,False,0,2024,0,False,False,True,False,False,False,True,False,False,False,True,False
+690,1745,2024-11-20,146,3.0,122.22062574008498,Bank Transfer,5.087274549560127,2.0,Good,Yes,True,False,False,False,1,2024,0,True,False,False,False,True,False,False,False,True,False,False,False
+691,1132,2024-11-21,164,2.0,92.89621300668549,PayPal,3.146989838163741,5.0,Bad,No,False,False,False,True,0,2024,1,False,False,False,True,False,False,False,True,False,False,False,True
+692,1441,2024-11-22,120,2.0,119.27558649715996,PayPal,7.315132457027989,3.0,,Yes,False,False,False,True,1,2024,0,False,False,False,True,False,False,False,True,False,False,False,True
+693,1093,2024-11-23,196,3.0,116.11338253680633,PayPal,7.102137589603954,5.0,Bad,Yes,False,False,False,True,1,2024,1,False,False,False,True,False,False,False,True,False,False,False,True
+694,1347,2024-11-24,198,4.0,93.936958795076,PayPal,4.331554542749586,2.0,Bad,No,False,False,False,True,0,2024,0,False,False,False,True,False,False,False,True,False,False,False,True
+695,1401,2024-11-25,105,3.0,83.1690615361286,Credit Card,3.8723561355447225,5.0,Average,Yes,False,False,True,False,1,2024,1,False,False,True,False,False,False,True,False,False,False,True,False
+696,1419,2024-11-26,185,3.0,100.81185765377047,Credit Card,5.489408849124732,1.0,Bad,Yes,False,False,True,False,1,2024,0,False,False,True,False,False,False,True,False,False,False,True,False
+697,1706,2024-11-27,124,3.0,91.56075904621144,Cash,3.330356583690856,1.0,Average,Yes,False,True,False,False,1,2024,0,False,True,False,False,False,True,False,False,False,True,False,False
+699,1941,2024-11-29,171,1.0,90.75171380142032,Cash,2.6258580267120237,3.0,,Yes,False,True,False,False,1,2024,0,False,True,False,False,False,True,False,False,False,True,False,False
+700,1185,2024-11-30,175,4.0,99.6125518592487,Cash,8.278044026228486,1.0,Bad,No,False,True,False,False,0,2024,0,False,True,False,False,False,True,False,False,False,True,False,False
+701,1975,2024-12-01,128,3.0,99.6125518592487,PayPal,6.113358170644847,4.0,Bad,Yes,False,False,False,True,1,2024,1,False,False,False,True,False,False,False,True,False,False,False,True
+702,1375,2024-12-02,195,0.0,124.62336543897808,Credit Card,6.243776914719894,3.0,Average,No,False,False,True,False,0,2024,0,False,False,True,False,False,False,True,False,False,False,True,False
+703,1676,2024-12-03,165,2.0,60.390928929916655,Bank Transfer,4.119098833249276,5.0,Bad,Yes,True,False,False,False,1,2024,1,True,False,False,False,True,False,False,False,True,False,False,False
+705,1702,2024-12-05,182,1.0,96.43212215379155,Credit Card,1.648252394079119,4.0,Average,Yes,False,False,True,False,1,2024,1,False,False,True,False,False,False,True,False,False,False,True,False
+706,1516,2024-12-06,114,3.0,64.07374262663588,Cash,7.003866765573955,1.0,Average,No,False,True,False,False,0,2024,0,False,True,False,False,False,True,False,False,False,True,False,False
+707,1497,2024-12-07,121,2.0,83.90562491291517,Credit Card,4.876263228821285,5.0,Bad,No,False,False,True,False,0,2024,1,False,False,True,False,False,False,True,False,False,False,True,False
+708,1498,2024-12-08,169,2.0,75.50407260995254,Cash,8.18460946848231,5.0,Average,Yes,False,True,False,False,1,2024,1,False,True,False,False,False,True,False,False,False,True,False,False
+709,1205,2024-12-09,133,3.0,123.66535215211135,PayPal,7.279730577267863,5.0,Good,Yes,False,False,False,True,1,2024,1,False,False,False,True,False,False,False,True,False,False,False,True
+710,1414,2024-12-10,102,5.0,95.89225187955874,Bank Transfer,8.567479663724999,3.0,Good,Yes,True,False,False,False,1,2024,0,True,False,False,False,True,False,False,False,True,False,False,False
+711,1365,2024-12-11,127,3.0,136.6690310212873,PayPal,8.77850498502908,5.0,,Yes,False,False,False,True,1,2024,1,False,False,False,True,False,False,False,True,False,False,False,True
+712,1855,2024-12-12,119,2.0,104.45450878180344,Credit Card,5.576424554719481,4.0,Good,Yes,False,False,True,False,1,2024,1,False,False,True,False,False,False,True,False,False,False,True,False
+714,1419,2024-12-14,171,3.0,59.64599131433467,Cash,5.173525011819434,3.0,Good,No,False,True,False,False,0,2024,0,False,True,False,False,False,True,False,False,False,True,False,False
+715,1585,2024-12-15,129,1.0,96.56810323422432,Bank Transfer,6.625403199260791,5.0,,No,True,False,False,False,0,2024,1,True,False,False,False,True,False,False,False,True,False,False,False
+716,1218,2024-12-16,135,1.0,110.42184601082847,Credit Card,5.200151947036689,2.0,Average,No,False,False,True,False,0,2024,0,False,False,True,False,False,False,True,False,False,False,True,False
+717,1951,2024-12-17,197,1.0,97.79330076591724,Cash,5.828721336561611,4.0,Good,No,False,True,False,False,0,2024,1,False,True,False,False,False,True,False,False,False,True,False,False
+718,1538,2024-12-18,148,1.0,74.14091127488057,PayPal,5.730450239012846,4.0,Average,Yes,False,False,False,True,1,2024,1,False,False,False,True,False,False,False,True,False,False,False,True
+720,1022,2024-12-20,180,4.0,107.00734491288262,Credit Card,5.276098079448125,3.0,,No,False,False,True,False,0,2024,0,False,False,True,False,False,False,True,False,False,False,True,False
+721,1460,2024-12-21,156,2.0,92.61200933946348,PayPal,6.453099771998877,3.0,Good,No,False,False,False,True,0,2024,0,False,False,False,True,False,False,False,True,False,False,False,True
+722,1719,2024-12-22,163,1.0,85.77769471799697,PayPal,4.42714379005926,3.0,Average,No,False,False,False,True,0,2024,0,False,False,False,True,False,False,False,True,False,False,False,True
+724,1602,2024-12-24,158,4.0,112.73622202142866,Bank Transfer,2.620889949512317,3.0,Good,Yes,True,False,False,False,1,2024,0,True,False,False,False,True,False,False,False,True,False,False,False
+725,1051,2024-12-25,105,7.0,110.0790955145323,Cash,1.5390879376596085,2.0,Good,Yes,False,True,False,False,1,2024,0,False,True,False,False,False,True,False,False,False,True,False,False
+726,1998,2024-12-26,151,5.0,72.91797989699384,Bank Transfer,7.96094792239681,4.0,Bad,No,True,False,False,False,0,2024,1,True,False,False,False,True,False,False,False,True,False,False,False
+727,1814,2024-12-27,161,5.0,106.0491550365412,PayPal,5.580247443621663,4.0,Good,No,False,False,False,True,0,2024,1,False,False,False,True,False,False,False,True,False,False,False,True
+729,1573,2024-12-29,117,3.0,83.69929775533835,Cash,4.98222308218572,4.0,Good,No,False,True,False,False,0,2024,1,False,True,False,False,False,True,False,False,False,True,False,False
+730,1444,2024-12-30,145,0.0,99.91300862864726,Credit Card,9.261204895512744,2.0,,No,False,False,True,False,0,2024,0,False,False,True,False,False,False,True,False,False,False,True,False
+731,1815,2024-12-31,196,2.0,134.70372420063853,Credit Card,2.838487572038804,3.0,Good,Yes,False,False,True,False,1,2024,0,False,False,True,False,False,False,True,False,False,False,True,False
+732,1104,2025-01-01,162,0.0,128.4065132659307,PayPal,3.886652399140656,2.0,Bad,Yes,False,False,False,True,1,2025,0,False,False,False,True,False,False,False,True,False,False,False,True
+733,1640,2025-01-02,122,2.0,77.20757420258938,PayPal,0.5283884801142333,3.0,Average,No,False,False,False,True,0,2025,0,False,False,False,True,False,False,False,True,False,False,False,True
+734,1394,2025-01-03,197,2.0,85.06838648430937,PayPal,3.723453645438586,5.0,Good,No,False,False,False,True,0,2025,1,False,False,False,True,False,False,False,True,False,False,False,True
+736,1909,2025-01-05,105,4.0,100.38570861239324,PayPal,7.319901785513426,1.0,Average,Yes,False,False,False,True,1,2025,0,False,False,False,True,False,False,False,True,False,False,False,True
+737,1327,2025-01-06,176,4.0,100.55422450260372,Credit Card,1.309699064063242,1.0,Good,Yes,False,False,True,False,1,2025,0,False,False,True,False,False,False,True,False,False,False,True,False
+738,1606,2025-01-07,161,6.0,96.09899978623928,PayPal,5.30654023212064,3.0,,Yes,False,False,False,True,1,2025,0,False,False,False,True,False,False,False,True,False,False,False,True
+739,1518,2025-01-08,142,4.0,99.6125518592487,Cash,6.63451436303217,1.0,Good,No,False,True,False,False,0,2025,0,False,True,False,False,False,True,False,False,False,True,False,False
+740,1685,2025-01-09,116,0.0,77.11336409125863,Credit Card,8.16430168296465,4.0,,Yes,False,False,True,False,1,2025,1,False,False,True,False,False,False,True,False,False,False,True,False
+742,1414,2025-01-11,117,2.0,124.2138483319867,Bank Transfer,7.314084814193155,2.0,Good,Yes,True,False,False,False,1,2025,0,True,False,False,False,True,False,False,False,True,False,False,False
+743,1527,2025-01-12,168,3.0,88.85323390745636,Credit Card,3.671230054443403,4.0,Good,No,False,False,True,False,0,2025,1,False,False,True,False,False,False,True,False,False,False,True,False
+744,1169,2025-01-13,160,4.0,74.49674078858962,Credit Card,4.710844560585701,5.0,Good,Yes,False,False,True,False,1,2025,1,False,False,True,False,False,False,True,False,False,False,True,False
+745,1166,2025-01-14,125,2.0,129.03142457157378,Credit Card,3.203121670439635,5.0,,Yes,False,False,True,False,1,2025,1,False,False,True,False,False,False,True,False,False,False,True,False
+746,1309,2025-01-15,114,3.0,71.3323152018163,PayPal,4.32863094878026,2.0,Bad,Yes,False,False,False,True,1,2025,0,False,False,False,True,False,False,False,True,False,False,False,True
+747,1939,2025-01-16,161,2.0,107.26961724529734,Credit Card,5.100433763978512,1.0,Average,Yes,False,False,True,False,1,2025,0,False,False,True,False,False,False,True,False,False,False,True,False
+748,1594,2025-01-17,153,3.0,95.85238866702386,Credit Card,4.746721697350916,5.0,,No,False,False,True,False,0,2025,1,False,False,True,False,False,False,True,False,False,False,True,False
+750,1220,2025-01-19,129,4.0,99.6125518592487,PayPal,4.582013825042751,4.0,Good,No,False,False,False,True,0,2025,1,False,False,False,True,False,False,False,True,False,False,False,True
+752,1681,2025-01-21,128,4.0,94.58692176442035,Cash,3.3367506390305643,2.0,Bad,Yes,False,True,False,False,1,2025,0,False,True,False,False,False,True,False,False,False,True,False,False
+753,1834,2025-01-22,174,2.0,79.45890690813967,Cash,5.547674161430599,1.0,Good,No,False,True,False,False,0,2025,0,False,True,False,False,False,True,False,False,False,True,False,False
+754,1114,2025-01-23,105,4.0,111.94064442373528,Bank Transfer,3.440864503824105,3.0,Average,Yes,True,False,False,False,1,2025,0,True,False,False,False,True,False,False,False,True,False,False,False
+755,1860,2025-01-24,184,4.0,107.9651831986943,Bank Transfer,7.601663807217453,4.0,,Yes,True,False,False,False,1,2025,1,True,False,False,False,True,False,False,False,True,False,False,False
+756,1334,2025-01-25,155,3.0,121.40891990184632,Cash,7.692372394979495,2.0,Bad,No,False,True,False,False,0,2025,0,False,True,False,False,False,True,False,False,False,True,False,False
+757,1741,2025-01-26,150,2.0,113.44041347077372,Cash,5.046319623154805,2.0,Good,Yes,False,True,False,False,1,2025,0,False,True,False,False,False,True,False,False,False,True,False,False
+758,1219,2025-01-27,186,6.0,78.61621377617456,Credit Card,4.0556932526373295,5.0,Bad,No,False,False,True,False,0,2025,1,False,False,True,False,False,False,True,False,False,False,True,False
+759,1246,2025-01-28,153,3.0,135.5209419622259,Cash,5.514927606706445,4.0,,No,False,True,False,False,0,2025,1,False,True,False,False,False,True,False,False,False,True,False,False
+760,1100,2025-01-29,110,4.0,95.84629336151184,Bank Transfer,4.964327959573787,4.0,Average,Yes,True,False,False,False,1,2025,1,True,False,False,False,True,False,False,False,True,False,False,False
+761,1415,2025-01-30,143,3.0,87.51578262272432,Bank Transfer,2.520159554356519,3.0,Bad,Yes,True,False,False,False,1,2025,0,True,False,False,False,True,False,False,False,True,False,False,False
+762,1221,2025-01-31,159,2.0,86.80611132746363,Credit Card,1.8142364398498327,4.0,Average,Yes,False,False,True,False,1,2025,1,False,False,True,False,False,False,True,False,False,False,True,False
+763,1178,2025-02-01,130,4.0,59.78573570467034,Bank Transfer,5.797362842854658,4.0,,No,True,False,False,False,0,2025,1,True,False,False,False,True,False,False,False,True,False,False,False
+764,1508,2025-02-02,159,2.0,114.45907361294266,PayPal,7.174628709149048,1.0,,Yes,False,False,False,True,1,2025,0,False,False,False,True,False,False,False,True,False,False,False,True
+765,1174,2025-02-03,114,3.0,89.54838652813419,Bank Transfer,0.2144988750874201,2.0,Bad,Yes,True,False,False,False,1,2025,0,True,False,False,False,True,False,False,False,True,False,False,False
+766,1605,2025-02-04,148,5.0,98.69337612314948,Credit Card,6.323624898286441,1.0,Average,Yes,False,False,True,False,1,2025,0,False,False,True,False,False,False,True,False,False,False,True,False
+767,1626,2025-02-05,156,2.0,114.97985435043304,Bank Transfer,6.509334921595979,4.0,,Yes,True,False,False,False,1,2025,1,True,False,False,False,True,False,False,False,True,False,False,False
+768,1673,2025-02-06,165,4.0,85.48112768123664,PayPal,7.774782666860608,3.0,,Yes,False,False,False,True,1,2025,0,False,False,False,True,False,False,False,True,False,False,False,True
+769,1780,2025-02-07,107,3.0,95.83018795662856,PayPal,4.395563048931275,5.0,,No,False,False,False,True,0,2025,1,False,False,False,True,False,False,False,True,False,False,False,True
+770,1736,2025-02-08,169,3.0,106.29275664983965,Bank Transfer,5.612185199643401,1.0,Bad,Yes,True,False,False,False,1,2025,0,True,False,False,False,True,False,False,False,True,False,False,False
+772,1848,2025-02-10,152,4.0,99.6125518592487,Credit Card,5.211112698064652,3.0,Bad,No,False,False,True,False,0,2025,0,False,False,True,False,False,False,True,False,False,False,True,False
+773,1066,2025-02-11,132,4.0,95.2310060361853,PayPal,3.940801067652638,4.0,Good,Yes,False,False,False,True,1,2025,1,False,False,False,True,False,False,False,True,False,False,False,True
+774,1456,2025-02-12,187,4.0,94.97063912445202,Cash,4.8048332872562325,5.0,Bad,Yes,False,True,False,False,1,2025,1,False,True,False,False,False,True,False,False,False,True,False,False
+775,1125,2025-02-13,178,5.0,119.72904461828932,PayPal,2.9599148148465724,1.0,Good,Yes,False,False,False,True,1,2025,0,False,False,False,True,False,False,False,True,False,False,False,True
+776,1138,2025-02-14,134,5.0,107.01751069352916,Cash,5.176552528551729,3.0,,Yes,False,True,False,False,1,2025,0,False,True,False,False,False,True,False,False,False,True,False,False
+777,1624,2025-02-15,129,3.0,86.6465560729921,Cash,4.873597800391445,1.0,Average,Yes,False,True,False,False,1,2025,0,False,True,False,False,False,True,False,False,False,True,False,False
+778,1730,2025-02-16,151,2.0,122.78307251282394,Bank Transfer,3.3590710019909835,4.0,,No,True,False,False,False,0,2025,1,True,False,False,False,True,False,False,False,True,False,False,False
+779,1155,2025-02-17,189,6.0,99.6125518592487,Bank Transfer,6.461710580259363,4.0,Good,Yes,True,False,False,False,1,2025,1,True,False,False,False,True,False,False,False,True,False,False,False
+780,1696,2025-02-18,153,2.0,146.41339158056996,Credit Card,4.289951273982165,1.0,Good,Yes,False,False,True,False,1,2025,0,False,False,True,False,False,False,True,False,False,False,True,False
+781,1120,2025-02-19,104,1.0,101.10943817725308,PayPal,6.8921007380674135,5.0,,No,False,False,False,True,0,2025,1,False,False,False,True,False,False,False,True,False,False,False,True
+782,1321,2025-02-20,164,5.0,82.81974456612761,Cash,3.918331260123557,4.0,,No,False,True,False,False,0,2025,1,False,True,False,False,False,True,False,False,False,True,False,False
+784,1709,2025-02-22,184,2.0,130.67370890439958,Credit Card,4.107884589515554,5.0,,No,False,False,True,False,0,2025,1,False,False,True,False,False,False,True,False,False,False,True,False
+785,1856,2025-02-23,105,3.0,99.6125518592487,Cash,2.492397154932246,4.0,Good,Yes,False,True,False,False,1,2025,1,False,True,False,False,False,True,False,False,False,True,False,False
+786,1290,2025-02-24,188,3.0,116.870152288117,Bank Transfer,7.308330686753552,5.0,Average,No,True,False,False,False,0,2025,1,True,False,False,False,True,False,False,False,True,False,False,False
+787,1975,2025-02-25,117,3.0,95.3765971775822,Cash,3.342318808655544,2.0,Good,Yes,False,True,False,False,1,2025,0,False,True,False,False,False,True,False,False,False,True,False,False
+788,1003,2025-02-26,168,2.0,104.23937218018725,PayPal,7.923819960029636,1.0,Average,Yes,False,False,False,True,1,2025,0,False,False,False,True,False,False,False,True,False,False,False,True
+790,1238,2025-02-28,132,2.0,99.6125518592487,Cash,6.517657686017892,5.0,Bad,Yes,False,True,False,False,1,2025,1,False,True,False,False,False,True,False,False,False,True,False,False
+791,1677,2025-03-01,181,5.0,74.35771433747627,Bank Transfer,3.3059045670211944,3.0,,Yes,True,False,False,False,1,2025,0,True,False,False,False,True,False,False,False,True,False,False,False
+792,1171,2025-03-02,172,4.0,131.63786814476313,Cash,5.359212327065955,3.0,Bad,Yes,False,True,False,False,1,2025,0,False,True,False,False,False,True,False,False,False,True,False,False
+793,1723,2025-03-03,173,1.0,92.69401108993104,Credit Card,5.032406368990672,5.0,Average,No,False,False,True,False,0,2025,1,False,False,True,False,False,False,True,False,False,False,True,False
+794,1856,2025-03-04,131,3.0,80.22838022656093,Credit Card,5.755572913219335,3.0,Good,No,False,False,True,False,0,2025,0,False,False,True,False,False,False,True,False,False,False,True,False
+795,1582,2025-03-05,194,1.0,99.6125518592487,PayPal,6.264938183859,4.0,Good,No,False,False,False,True,0,2025,1,False,False,False,True,False,False,False,True,False,False,False,True
+796,1660,2025-03-06,173,1.0,117.57010492835772,Cash,2.0298188332534424,5.0,,No,False,True,False,False,0,2025,1,False,True,False,False,False,True,False,False,False,True,False,False
+797,1902,2025-03-07,148,6.0,99.6125518592487,Credit Card,4.420537116474842,4.0,Average,No,False,False,True,False,0,2025,1,False,False,True,False,False,False,True,False,False,False,True,False
+798,1796,2025-03-08,199,1.0,88.63874869701746,Credit Card,8.687317457176817,5.0,Good,Yes,False,False,True,False,1,2025,1,False,False,True,False,False,False,True,False,False,False,True,False
+799,1627,2025-03-09,132,3.0,66.54387792585082,Bank Transfer,3.395690543789754,2.0,Good,No,True,False,False,False,0,2025,0,True,False,False,False,True,False,False,False,True,False,False,False
+800,1902,2025-03-10,114,3.0,77.24031458908861,Bank Transfer,5.580520603279519,5.0,,No,True,False,False,False,0,2025,1,True,False,False,False,True,False,False,False,True,False,False,False
+801,1834,2025-03-11,161,4.0,99.6125518592487,PayPal,5.749014581236867,5.0,,No,False,False,False,True,0,2025,1,False,False,False,True,False,False,False,True,False,False,False,True
+802,1604,2025-03-12,187,4.0,99.6125518592487,Credit Card,6.550313174258066,1.0,Bad,No,False,False,True,False,0,2025,0,False,False,True,False,False,False,True,False,False,False,True,False
+803,1988,2025-03-13,132,4.0,69.51341621928691,Credit Card,4.230260747815902,3.0,Average,Yes,False,False,True,False,1,2025,0,False,False,True,False,False,False,True,False,False,False,True,False
+804,1614,2025-03-14,156,8.0,76.59897699075916,Credit Card,5.544001686726886,3.0,Average,No,False,False,True,False,0,2025,0,False,False,True,False,False,False,True,False,False,False,True,False
+805,1869,2025-03-15,128,0.0,116.1718166615306,Cash,8.877286172238854,2.0,,No,False,True,False,False,0,2025,0,False,True,False,False,False,True,False,False,False,True,False,False
+806,1379,2025-03-16,143,3.0,106.12076217733564,Bank Transfer,5.388598403915656,2.0,,No,True,False,False,False,0,2025,0,True,False,False,False,True,False,False,False,True,False,False,False
+807,1709,2025-03-17,197,1.0,105.7633146783861,Cash,3.1283245054124613,2.0,Bad,Yes,False,True,False,False,1,2025,0,False,True,False,False,False,True,False,False,False,True,False,False
+808,1109,2025-03-18,150,3.0,93.4939516961186,Bank Transfer,5.104059878627854,1.0,Average,No,True,False,False,False,0,2025,0,True,False,False,False,True,False,False,False,True,False,False,False
+809,1329,2025-03-19,146,4.0,92.83649175493892,Bank Transfer,5.31581525787896,2.0,Average,No,True,False,False,False,0,2025,0,True,False,False,False,True,False,False,False,True,False,False,False
+810,1100,2025-03-20,172,2.0,101.6696596957503,Bank Transfer,3.804042123969259,5.0,,Yes,True,False,False,False,1,2025,1,True,False,False,False,True,False,False,False,True,False,False,False
+811,1694,2025-03-21,137,2.0,104.39649231273243,Credit Card,2.0372811026047035,3.0,,Yes,False,False,True,False,1,2025,0,False,False,True,False,False,False,True,False,False,False,True,False
+812,1845,2025-03-22,102,1.0,131.13386217989836,PayPal,5.747161655367178,4.0,Good,Yes,False,False,False,True,1,2025,1,False,False,False,True,False,False,False,True,False,False,False,True
+813,1917,2025-03-23,117,7.0,92.05390391067392,Cash,3.211418531530467,5.0,,Yes,False,True,False,False,1,2025,1,False,True,False,False,False,True,False,False,False,True,False,False
+815,1671,2025-03-25,167,1.0,78.5347562097156,Cash,7.307443477220358,1.0,,Yes,False,True,False,False,1,2025,0,False,True,False,False,False,True,False,False,False,True,False,False
+816,1593,2025-03-26,185,3.0,111.79484534696462,Cash,4.415762259383438,1.0,,No,False,True,False,False,0,2025,0,False,True,False,False,False,True,False,False,False,True,False,False
+817,1035,2025-03-27,193,4.0,88.87840832478611,Credit Card,3.900517065616024,1.0,Bad,Yes,False,False,True,False,1,2025,0,False,False,True,False,False,False,True,False,False,False,True,False
+818,1237,2025-03-28,122,3.0,99.6125518592487,Credit Card,4.7306879648999,3.0,Bad,Yes,False,False,True,False,1,2025,0,False,False,True,False,False,False,True,False,False,False,True,False
+819,1243,2025-03-29,182,2.0,136.3586412758169,Credit Card,5.972830119179808,2.0,,Yes,False,False,True,False,1,2025,0,False,False,True,False,False,False,True,False,False,False,True,False
+820,1250,2025-03-30,107,2.0,103.2644015731193,Bank Transfer,3.084536583776625,3.0,Bad,No,True,False,False,False,0,2025,0,True,False,False,False,True,False,False,False,True,False,False,False
+821,1392,2025-03-31,155,0.0,120.17071390615662,Bank Transfer,3.041991920126309,3.0,Bad,No,True,False,False,False,0,2025,0,True,False,False,False,True,False,False,False,True,False,False,False
+823,1281,2025-04-02,126,2.0,116.54970941233516,Credit Card,3.789330813998544,3.0,Good,Yes,False,False,True,False,1,2025,0,False,False,True,False,False,False,True,False,False,False,True,False
+824,1021,2025-04-03,104,1.0,97.04721630644596,Bank Transfer,6.713385617193699,4.0,Average,Yes,True,False,False,False,1,2025,1,True,False,False,False,True,False,False,False,True,False,False,False
+825,1429,2025-04-04,189,3.0,77.62567711461877,Cash,1.32437248322575,2.0,Average,No,False,True,False,False,0,2025,0,False,True,False,False,False,True,False,False,False,True,False,False
+827,1982,2025-04-06,160,1.0,74.42239947701047,Cash,3.090250285863557,3.0,Good,No,False,True,False,False,0,2025,0,False,True,False,False,False,True,False,False,False,True,False,False
+828,1400,2025-04-07,183,2.0,111.96525261328838,PayPal,7.966463002519179,3.0,Bad,Yes,False,False,False,True,1,2025,0,False,False,False,True,False,False,False,True,False,False,False,True
+829,1153,2025-04-08,178,2.0,69.99513010950128,PayPal,4.797037710848925,3.0,,No,False,False,False,True,0,2025,0,False,False,False,True,False,False,False,True,False,False,False,True
+830,1119,2025-04-09,118,3.0,140.49713125110742,Cash,8.206060229672811,2.0,Average,No,False,True,False,False,0,2025,0,False,True,False,False,False,True,False,False,False,True,False,False
+831,1677,2025-04-10,196,3.0,90.398343340397,Bank Transfer,6.25199970856294,4.0,,Yes,True,False,False,False,1,2025,1,True,False,False,False,True,False,False,False,True,False,False,False
+833,1385,2025-04-12,136,4.0,94.49061883534108,Credit Card,8.315089231418346,5.0,Good,No,False,False,True,False,0,2025,1,False,False,True,False,False,False,True,False,False,False,True,False
+834,1389,2025-04-13,120,3.0,77.54116170074268,Cash,0.7678364001229365,2.0,Bad,Yes,False,True,False,False,1,2025,0,False,True,False,False,False,True,False,False,False,True,False,False
+835,1710,2025-04-14,103,5.0,98.65635952742612,Bank Transfer,6.179540306313025,1.0,Good,No,True,False,False,False,0,2025,0,True,False,False,False,True,False,False,False,True,False,False,False
+836,1396,2025-04-15,118,3.0,99.6125518592487,PayPal,3.104255765031805,1.0,Good,Yes,False,False,False,True,1,2025,0,False,False,False,True,False,False,False,True,False,False,False,True
+837,1346,2025-04-16,177,6.0,104.2978043889823,Cash,6.346956298051468,1.0,Bad,No,False,True,False,False,0,2025,0,False,True,False,False,False,True,False,False,False,True,False,False
+838,1586,2025-04-17,151,0.0,67.00740931820181,Cash,2.9628650088534725,4.0,Average,Yes,False,True,False,False,1,2025,1,False,True,False,False,False,True,False,False,False,True,False,False
+839,1950,2025-04-18,149,2.0,97.03432364274197,Bank Transfer,5.362468542522375,4.0,Bad,Yes,True,False,False,False,1,2025,1,True,False,False,False,True,False,False,False,True,False,False,False
+840,1078,2025-04-19,131,4.0,93.6694211650408,PayPal,7.794848637838313,1.0,Bad,No,False,False,False,True,0,2025,0,False,False,False,True,False,False,False,True,False,False,False,True
+841,1830,2025-04-20,197,4.0,112.07574994431472,Credit Card,4.691083793136973,1.0,,Yes,False,False,True,False,1,2025,0,False,False,True,False,False,False,True,False,False,False,True,False
+842,1584,2025-04-21,118,6.0,124.13518277219772,Credit Card,7.466182022219572,3.0,Average,Yes,False,False,True,False,1,2025,0,False,False,True,False,False,False,True,False,False,False,True,False
+843,1199,2025-04-22,112,4.0,101.13988403167936,PayPal,7.954133031719927,3.0,Bad,No,False,False,False,True,0,2025,0,False,False,False,True,False,False,False,True,False,False,False,True
+844,1813,2025-04-23,191,3.0,92.23478624181124,Cash,3.2029740267535463,1.0,,Yes,False,True,False,False,1,2025,0,False,True,False,False,False,True,False,False,False,True,False,False
+845,1133,2025-04-24,198,4.0,91.80617513172832,PayPal,2.1341040837011565,4.0,Average,No,False,False,False,True,0,2025,1,False,False,False,True,False,False,False,True,False,False,False,True
+846,1559,2025-04-25,171,3.0,106.24706303817342,Credit Card,2.5907220625914564,4.0,Bad,No,False,False,True,False,0,2025,1,False,False,True,False,False,False,True,False,False,False,True,False
+847,1699,2025-04-26,194,5.0,95.76521244192388,PayPal,2.612951304316548,1.0,,Yes,False,False,False,True,1,2025,0,False,False,False,True,False,False,False,True,False,False,False,True
+848,1170,2025-04-27,145,2.0,99.6125518592487,Cash,5.276902659989438,2.0,Bad,Yes,False,True,False,False,1,2025,0,False,True,False,False,False,True,False,False,False,True,False,False
+849,1451,2025-04-28,180,3.0,111.4624937500616,Cash,8.123228758217966,3.0,Bad,Yes,False,True,False,False,1,2025,0,False,True,False,False,False,True,False,False,False,True,False,False
+850,1138,2025-04-29,165,1.0,82.17767981283868,Bank Transfer,5.129189762630531,2.0,Bad,No,True,False,False,False,0,2025,0,True,False,False,False,True,False,False,False,True,False,False,False
+851,1754,2025-04-30,188,3.0,99.6125518592487,Cash,8.453274584762415,4.0,,Yes,False,True,False,False,1,2025,1,False,True,False,False,False,True,False,False,False,True,False,False
+852,1313,2025-05-01,116,1.0,99.6125518592487,Bank Transfer,1.900324338851716,2.0,,No,True,False,False,False,0,2025,0,True,False,False,False,True,False,False,False,True,False,False,False
+853,1475,2025-05-02,145,4.0,99.11020827279124,Bank Transfer,9.488354790437686,5.0,Average,Yes,True,False,False,False,1,2025,1,True,False,False,False,True,False,False,False,True,False,False,False
+854,1345,2025-05-03,191,3.0,104.51186449884348,PayPal,7.685807365005131,5.0,Average,Yes,False,False,False,True,1,2025,1,False,False,False,True,False,False,False,True,False,False,False,True
+855,1387,2025-05-04,137,2.0,114.8378601297898,Credit Card,2.4617566609560733,4.0,Average,Yes,False,False,True,False,1,2025,1,False,False,True,False,False,False,True,False,False,False,True,False
+856,1125,2025-05-05,150,1.0,144.59343553672278,Bank Transfer,4.833185075726853,4.0,Average,Yes,True,False,False,False,1,2025,1,True,False,False,False,True,False,False,False,True,False,False,False
+857,1718,2025-05-06,124,2.0,85.93183062207738,Cash,5.814603524968996,2.0,Average,Yes,False,True,False,False,1,2025,0,False,True,False,False,False,True,False,False,False,True,False,False
+858,1850,2025-05-07,148,7.0,121.44106462876704,PayPal,4.465848811415389,1.0,Bad,Yes,False,False,False,True,1,2025,0,False,False,False,True,False,False,False,True,False,False,False,True
+859,1197,2025-05-08,176,3.0,126.62717497986615,Credit Card,4.7096466009676,4.0,Bad,Yes,False,False,True,False,1,2025,1,False,False,True,False,False,False,True,False,False,False,True,False
+860,1698,2025-05-09,104,2.0,115.72305722062671,Bank Transfer,4.294219412209875,3.0,Bad,Yes,True,False,False,False,1,2025,0,True,False,False,False,True,False,False,False,True,False,False,False
+861,1900,2025-05-10,151,3.0,99.6125518592487,Cash,4.855422992048966,1.0,Good,Yes,False,True,False,False,1,2025,0,False,True,False,False,False,True,False,False,False,True,False,False
+862,1017,2025-05-11,146,3.0,105.53458458115762,Cash,6.095366835899825,5.0,Bad,Yes,False,True,False,False,1,2025,1,False,True,False,False,False,True,False,False,False,True,False,False
+864,1447,2025-05-13,114,4.0,96.28164695559724,PayPal,8.909844383231846,2.0,Average,Yes,False,False,False,True,1,2025,0,False,False,False,True,False,False,False,True,False,False,False,True
+865,1350,2025-05-14,110,3.0,94.96331025793006,Bank Transfer,5.858244929975566,4.0,Bad,Yes,True,False,False,False,1,2025,1,True,False,False,False,True,False,False,False,True,False,False,False
+866,1664,2025-05-15,127,2.0,131.62931023464205,Cash,3.665639280826421,3.0,Good,Yes,False,True,False,False,1,2025,0,False,True,False,False,False,True,False,False,False,True,False,False
+867,1643,2025-05-16,178,4.0,117.03528839571544,Bank Transfer,5.118818767978253,2.0,,Yes,True,False,False,False,1,2025,0,True,False,False,False,True,False,False,False,True,False,False,False
+868,1325,2025-05-17,113,4.0,114.9248704236538,Cash,3.6175775654054783,4.0,Good,No,False,True,False,False,0,2025,1,False,True,False,False,False,True,False,False,False,True,False,False
+869,1424,2025-05-18,104,6.0,73.03385224197098,Credit Card,2.2100289378014835,1.0,Average,Yes,False,False,True,False,1,2025,0,False,False,True,False,False,False,True,False,False,False,True,False
+870,1164,2025-05-19,186,2.0,96.45964140875446,PayPal,5.492561232517735,5.0,,Yes,False,False,False,True,1,2025,1,False,False,False,True,False,False,False,True,False,False,False,True
+871,1570,2025-05-20,115,3.0,99.6125518592487,Cash,5.859844664175034,4.0,Average,Yes,False,True,False,False,1,2025,1,False,True,False,False,False,True,False,False,False,True,False,False
+872,1177,2025-05-21,129,3.0,142.79593790770116,Cash,5.543509678694907,4.0,,No,False,True,False,False,0,2025,1,False,True,False,False,False,True,False,False,False,True,False,False
+873,1439,2025-05-22,178,3.0,85.87965454821675,Bank Transfer,5.976277014836774,5.0,Good,Yes,True,False,False,False,1,2025,1,True,False,False,False,True,False,False,False,True,False,False,False
+874,1664,2025-05-23,142,3.0,100.01579232083714,Credit Card,4.562733551882999,2.0,Average,No,False,False,True,False,0,2025,0,False,False,True,False,False,False,True,False,False,False,True,False
+875,1673,2025-05-24,125,3.0,104.20369873644952,Cash,8.370134424408443,4.0,Bad,No,False,True,False,False,0,2025,1,False,True,False,False,False,True,False,False,False,True,False,False
+876,1914,2025-05-25,175,6.0,130.14323669574318,Credit Card,5.468464847810388,1.0,,Yes,False,False,True,False,1,2025,0,False,False,True,False,False,False,True,False,False,False,True,False
+879,1753,2025-05-28,122,4.0,87.36134614923762,Bank Transfer,4.494456892330801,3.0,,No,True,False,False,False,0,2025,0,True,False,False,False,True,False,False,False,True,False,False,False
+881,1949,2025-05-30,184,2.0,74.84865660214827,PayPal,6.897333202805484,4.0,Good,No,False,False,False,True,0,2025,1,False,False,False,True,False,False,False,True,False,False,False,True
+882,1747,2025-05-31,155,1.0,131.96525487278836,Cash,5.020654677509772,4.0,Bad,No,False,True,False,False,0,2025,1,False,True,False,False,False,True,False,False,False,True,False,False
+883,1046,2025-06-01,102,3.0,99.6125518592487,Bank Transfer,6.511090495515794,3.0,Average,No,True,False,False,False,0,2025,0,True,False,False,False,True,False,False,False,True,False,False,False
+884,1496,2025-06-02,125,2.0,82.96081145172977,Credit Card,6.899901436097322,5.0,Bad,No,False,False,True,False,0,2025,1,False,False,True,False,False,False,True,False,False,False,True,False
+885,1639,2025-06-03,100,2.0,130.80148690401725,Credit Card,1.3396875121681229,1.0,Good,No,False,False,True,False,0,2025,0,False,False,True,False,False,False,True,False,False,False,True,False
+886,1929,2025-06-04,195,1.0,98.4048850374772,PayPal,6.551711221554061,4.0,,No,False,False,False,True,0,2025,1,False,False,False,True,False,False,False,True,False,False,False,True
+887,1337,2025-06-05,156,1.0,111.39667349027155,Bank Transfer,4.766915024785366,1.0,Bad,No,True,False,False,False,0,2025,0,True,False,False,False,True,False,False,False,True,False,False,False
+888,1157,2025-06-06,170,5.0,111.97544080962956,Cash,4.584528335914492,2.0,,No,False,True,False,False,0,2025,0,False,True,False,False,False,True,False,False,False,True,False,False
+889,1524,2025-06-07,182,4.0,99.05189564100353,Cash,3.806929222765168,4.0,,No,False,True,False,False,0,2025,1,False,True,False,False,False,True,False,False,False,True,False,False
+890,1630,2025-06-08,186,3.0,106.21704081279408,Cash,3.661315449025614,3.0,Bad,Yes,False,True,False,False,1,2025,0,False,True,False,False,False,True,False,False,False,True,False,False
+891,1814,2025-06-09,162,2.0,133.2705186326845,Bank Transfer,4.254041282316408,5.0,Average,Yes,True,False,False,False,1,2025,1,True,False,False,False,True,False,False,False,True,False,False,False
+892,1886,2025-06-10,146,3.0,103.1094321177568,Cash,2.0654439008701933,1.0,,No,False,True,False,False,0,2025,0,False,True,False,False,False,True,False,False,False,True,False,False
+893,1288,2025-06-11,189,1.0,99.6125518592487,Bank Transfer,1.9267829938695369,2.0,Good,Yes,True,False,False,False,1,2025,0,True,False,False,False,True,False,False,False,True,False,False,False
+894,1802,2025-06-12,177,3.0,127.59271096309634,Credit Card,2.750341961086554,4.0,Bad,Yes,False,False,True,False,1,2025,1,False,False,True,False,False,False,True,False,False,False,True,False
+895,1115,2025-06-13,112,2.0,60.173906074286926,Bank Transfer,4.548503937943902,2.0,Bad,Yes,True,False,False,False,1,2025,0,True,False,False,False,True,False,False,False,True,False,False,False
+896,1599,2025-06-14,162,5.0,124.79378887741592,Credit Card,5.579041126177555,1.0,Good,No,False,False,True,False,0,2025,0,False,False,True,False,False,False,True,False,False,False,True,False
+897,1636,2025-06-15,137,3.0,121.24837442283666,Bank Transfer,1.142744459556326,3.0,Average,Yes,True,False,False,False,1,2025,0,True,False,False,False,True,False,False,False,True,False,False,False
+898,1409,2025-06-16,183,3.0,77.92182149810287,Cash,7.207406336178227,3.0,,Yes,False,True,False,False,1,2025,0,False,True,False,False,False,True,False,False,False,True,False,False
+900,1498,2025-06-18,128,5.0,94.89064688020724,Cash,6.574486816924792,1.0,,No,False,True,False,False,0,2025,0,False,True,False,False,False,True,False,False,False,True,False,False
+902,1564,2025-06-20,183,6.0,87.33233221741756,Credit Card,7.482038894805384,5.0,Good,Yes,False,False,True,False,1,2025,1,False,False,True,False,False,False,True,False,False,False,True,False
+903,1622,2025-06-21,140,3.0,131.82284166389292,Cash,3.007265181983928,2.0,Average,Yes,False,True,False,False,1,2025,0,False,True,False,False,False,True,False,False,False,True,False,False
+904,1576,2025-06-22,189,3.0,73.17598271281524,Cash,3.9205337799596296,4.0,Good,No,False,True,False,False,0,2025,1,False,True,False,False,False,True,False,False,False,True,False,False
+905,1332,2025-06-23,129,5.0,114.94446154604766,Cash,3.018431974928085,2.0,Bad,No,False,True,False,False,0,2025,0,False,True,False,False,False,True,False,False,False,True,False,False
+906,1886,2025-06-24,128,1.0,103.0427991743155,Credit Card,5.5751840171852765,5.0,,Yes,False,False,True,False,1,2025,1,False,False,True,False,False,False,True,False,False,False,True,False
+907,1585,2025-06-25,152,1.0,112.60733907465604,Bank Transfer,4.138847383273419,4.0,Bad,Yes,True,False,False,False,1,2025,1,True,False,False,False,True,False,False,False,True,False,False,False
+908,1146,2025-06-26,142,3.0,137.0199607117255,Cash,6.059135475961524,1.0,Bad,No,False,True,False,False,0,2025,0,False,True,False,False,False,True,False,False,False,True,False,False
+909,1772,2025-06-27,110,5.0,119.35671949045334,Cash,8.511680555867585,3.0,Bad,No,False,True,False,False,0,2025,0,False,True,False,False,False,True,False,False,False,True,False,False
+910,1775,2025-06-28,184,4.0,125.0168525936397,Bank Transfer,4.815030179615829,1.0,Average,No,True,False,False,False,0,2025,0,True,False,False,False,True,False,False,False,True,False,False,False
+911,1643,2025-06-29,117,1.0,108.03156155159095,PayPal,4.068081599516249,5.0,Good,No,False,False,False,True,0,2025,1,False,False,False,True,False,False,False,True,False,False,False,True
+912,1048,2025-06-30,100,4.0,129.66143795135446,PayPal,7.696189552706222,4.0,,Yes,False,False,False,True,1,2025,1,False,False,False,True,False,False,False,True,False,False,False,True
+913,1076,2025-07-01,139,2.0,80.04194531075956,Cash,4.012349655219037,2.0,Average,No,False,True,False,False,0,2025,0,False,True,False,False,False,True,False,False,False,True,False,False
+914,1293,2025-07-02,138,1.0,127.54102680820448,Bank Transfer,4.998855279984075,5.0,Good,Yes,True,False,False,False,1,2025,1,True,False,False,False,True,False,False,False,True,False,False,False
+915,1116,2025-07-03,198,3.0,99.6125518592487,PayPal,2.489621650763897,4.0,,No,False,False,False,True,0,2025,1,False,False,False,True,False,False,False,True,False,False,False,True
+916,1493,2025-07-04,165,2.0,72.49441876163968,Bank Transfer,3.357722876210377,3.0,Average,Yes,True,False,False,False,1,2025,0,True,False,False,False,True,False,False,False,True,False,False,False
+917,1560,2025-07-05,148,0.0,95.72721097186124,Credit Card,1.8920786364126867,3.0,Bad,No,False,False,True,False,0,2025,0,False,False,True,False,False,False,True,False,False,False,True,False
+918,1109,2025-07-06,186,1.0,101.1795451387034,Bank Transfer,3.2840517483526304,5.0,Good,No,True,False,False,False,0,2025,1,True,False,False,False,True,False,False,False,True,False,False,False
+920,1179,2025-07-08,149,3.0,114.4445398131802,PayPal,3.02290318207979,2.0,,Yes,False,False,False,True,1,2025,0,False,False,False,True,False,False,False,True,False,False,False,True
+921,1561,2025-07-09,122,2.0,106.23810082312912,Bank Transfer,5.254282477208161,1.0,Average,No,True,False,False,False,0,2025,0,True,False,False,False,True,False,False,False,True,False,False,False
+922,1071,2025-07-10,192,6.0,142.42152334698008,PayPal,6.497339130175815,3.0,Bad,Yes,False,False,False,True,1,2025,0,False,False,False,True,False,False,False,True,False,False,False,True
+923,1858,2025-07-11,165,3.0,99.6125518592487,Bank Transfer,5.591869077608831,5.0,Bad,Yes,True,False,False,False,1,2025,1,True,False,False,False,True,False,False,False,True,False,False,False
+924,1433,2025-07-12,185,4.0,120.6292010499154,PayPal,4.234989874144268,4.0,,Yes,False,False,False,True,1,2025,1,False,False,False,True,False,False,False,True,False,False,False,True
+925,1285,2025-07-13,166,3.0,113.9870801446925,Cash,4.0337677111283465,2.0,,No,False,True,False,False,0,2025,0,False,True,False,False,False,True,False,False,False,True,False,False
+926,1515,2025-07-14,132,4.0,83.16923258639557,Cash,7.782142498831426,3.0,Average,Yes,False,True,False,False,1,2025,0,False,True,False,False,False,True,False,False,False,True,False,False
+927,1074,2025-07-15,150,2.0,90.20670883354212,Cash,0.2816877518567358,3.0,,No,False,True,False,False,0,2025,0,False,True,False,False,False,True,False,False,False,True,False,False
+928,1596,2025-07-16,170,3.0,106.02922630094574,Credit Card,7.474524502522689,5.0,Bad,No,False,False,True,False,0,2025,1,False,False,True,False,False,False,True,False,False,False,True,False
+929,1490,2025-07-17,135,2.0,115.96407839806515,Credit Card,6.438995391610828,1.0,Bad,Yes,False,False,True,False,1,2025,0,False,False,True,False,False,False,True,False,False,False,True,False
+930,1321,2025-07-18,123,1.0,73.15044108666034,Cash,3.490763813785232,2.0,Average,No,False,True,False,False,0,2025,0,False,True,False,False,False,True,False,False,False,True,False,False
+931,1887,2025-07-19,182,0.0,126.843638641758,Credit Card,6.544755763676122,2.0,Average,No,False,False,True,False,0,2025,0,False,False,True,False,False,False,True,False,False,False,True,False
+932,1532,2025-07-20,189,2.0,87.91377314170032,Cash,7.567679613553945,3.0,Average,No,False,True,False,False,0,2025,0,False,True,False,False,False,True,False,False,False,True,False,False
+933,1208,2025-07-21,179,5.0,99.6125518592487,Credit Card,1.3308504693566707,1.0,Good,No,False,False,True,False,0,2025,0,False,False,True,False,False,False,True,False,False,False,True,False
+934,1042,2025-07-22,127,1.0,102.31447235732846,Cash,0.3752962325110474,1.0,,No,False,True,False,False,0,2025,0,False,True,False,False,False,True,False,False,False,True,False,False
+935,1498,2025-07-23,185,4.0,106.41495025165236,Credit Card,2.896766881815716,1.0,,Yes,False,False,True,False,1,2025,0,False,False,True,False,False,False,True,False,False,False,True,False
+936,1028,2025-07-24,101,3.0,89.32499159642256,Bank Transfer,3.1905075988979497,1.0,,Yes,True,False,False,False,1,2025,0,True,False,False,False,True,False,False,False,True,False,False,False
+937,1410,2025-07-25,109,3.0,130.51713018936996,Cash,6.170797644225964,4.0,Average,No,False,True,False,False,0,2025,1,False,True,False,False,False,True,False,False,False,True,False,False
+938,1855,2025-07-26,181,4.0,99.6125518592487,Bank Transfer,4.525150709527775,1.0,Bad,No,True,False,False,False,0,2025,0,True,False,False,False,True,False,False,False,True,False,False,False
+939,1180,2025-07-27,111,1.0,80.22121819894764,Cash,3.491633190691916,5.0,Average,Yes,False,True,False,False,1,2025,1,False,True,False,False,False,True,False,False,False,True,False,False
+940,1304,2025-07-28,164,4.0,81.50439925950948,Bank Transfer,2.636787241884823,1.0,Average,No,True,False,False,False,0,2025,0,True,False,False,False,True,False,False,False,True,False,False,False
+942,1614,2025-07-30,161,2.0,76.56982878929904,Bank Transfer,5.2467816375318685,2.0,Good,Yes,True,False,False,False,1,2025,0,True,False,False,False,True,False,False,False,True,False,False,False
+943,1777,2025-07-31,154,5.0,85.98660040682608,Bank Transfer,7.009060397708692,3.0,,No,True,False,False,False,0,2025,0,True,False,False,False,True,False,False,False,True,False,False,False
+944,1258,2025-08-01,136,4.0,88.21141280473653,PayPal,7.392751458573207,1.0,,Yes,False,False,False,True,1,2025,0,False,False,False,True,False,False,False,True,False,False,False,True
+945,1372,2025-08-02,184,3.0,98.77687667920392,Credit Card,7.176465264732148,1.0,Average,Yes,False,False,True,False,1,2025,0,False,False,True,False,False,False,True,False,False,False,True,False
+946,1876,2025-08-03,119,7.0,110.74119317608314,Credit Card,2.9952932936088925,2.0,,Yes,False,False,True,False,1,2025,0,False,False,True,False,False,False,True,False,False,False,True,False
+948,1857,2025-08-05,184,3.0,129.7564595064186,PayPal,5.107383245429731,4.0,,Yes,False,False,False,True,1,2025,1,False,False,False,True,False,False,False,True,False,False,False,True
+949,1380,2025-08-06,162,3.0,99.3583748984164,Bank Transfer,4.948435019773716,4.0,Average,No,True,False,False,False,0,2025,1,True,False,False,False,True,False,False,False,True,False,False,False
+950,1885,2025-08-07,168,3.0,99.6125518592487,Cash,6.967625082866316,1.0,Bad,No,False,True,False,False,0,2025,0,False,True,False,False,False,True,False,False,False,True,False,False
+951,1612,2025-08-08,141,6.0,99.6125518592487,PayPal,7.308398390145946,2.0,Bad,No,False,False,False,True,0,2025,0,False,False,False,True,False,False,False,True,False,False,False,True
+952,1090,2025-08-09,180,1.0,115.05109684208205,PayPal,0.5467809778488171,4.0,,No,False,False,False,True,0,2025,1,False,False,False,True,False,False,False,True,False,False,False,True
+953,1068,2025-08-10,116,2.0,123.51691752536402,PayPal,3.719945727096116,3.0,Good,No,False,False,False,True,0,2025,0,False,False,False,True,False,False,False,True,False,False,False,True
+954,1617,2025-08-11,157,3.0,114.70656023624804,Credit Card,2.761570249817399,1.0,Bad,No,False,False,True,False,0,2025,0,False,False,True,False,False,False,True,False,False,False,True,False
+955,1522,2025-08-12,105,4.0,95.24180419660256,PayPal,5.881931143359766,4.0,,No,False,False,False,True,0,2025,1,False,False,False,True,False,False,False,True,False,False,False,True
+956,1012,2025-08-13,196,3.0,57.81740189318276,Cash,8.272181092285221,5.0,,Yes,False,True,False,False,1,2025,1,False,True,False,False,False,True,False,False,False,True,False,False
+957,1616,2025-08-14,122,3.0,114.1762375804481,Cash,6.5462641007822,1.0,Bad,No,False,True,False,False,0,2025,0,False,True,False,False,False,True,False,False,False,True,False,False
+958,1225,2025-08-15,103,2.0,85.70064550293255,Bank Transfer,6.548119001707478,1.0,Good,No,True,False,False,False,0,2025,0,True,False,False,False,True,False,False,False,True,False,False,False
+959,1421,2025-08-16,108,5.0,109.05024798469265,Credit Card,3.803841904072032,1.0,Good,No,False,False,True,False,0,2025,0,False,False,True,False,False,False,True,False,False,False,True,False
+960,1167,2025-08-17,162,5.0,104.80448991431992,Cash,5.852477088610206,2.0,,Yes,False,True,False,False,1,2025,0,False,True,False,False,False,True,False,False,False,True,False,False
+961,1928,2025-08-18,192,2.0,89.35061196724035,Credit Card,4.428199335156528,1.0,Good,No,False,False,True,False,0,2025,0,False,False,True,False,False,False,True,False,False,False,True,False
+962,1378,2025-08-19,141,2.0,106.20658502913116,Bank Transfer,9.333247473762722,4.0,Good,No,True,False,False,False,0,2025,1,True,False,False,False,True,False,False,False,True,False,False,False
+963,1289,2025-08-20,174,0.0,81.34011395730428,Credit Card,2.880905175271113,5.0,Good,No,False,False,True,False,0,2025,1,False,False,True,False,False,False,True,False,False,False,True,False
+964,1922,2025-08-21,192,4.0,99.6125518592487,Cash,5.926993864516218,5.0,Average,No,False,True,False,False,0,2025,1,False,True,False,False,False,True,False,False,False,True,False,False
+965,1099,2025-08-22,195,2.0,112.58841115498603,Bank Transfer,5.134889818183641,2.0,Average,Yes,True,False,False,False,1,2025,0,True,False,False,False,True,False,False,False,True,False,False,False
+966,1217,2025-08-23,111,2.0,70.31853063260843,Cash,2.6350005700956007,4.0,Good,No,False,True,False,False,0,2025,1,False,True,False,False,False,True,False,False,False,True,False,False
+967,1306,2025-08-24,134,2.0,105.89811252821752,Bank Transfer,4.116189973469315,2.0,Average,Yes,True,False,False,False,1,2025,0,True,False,False,False,True,False,False,False,True,False,False,False
+968,1344,2025-08-25,191,5.0,62.189125682464514,PayPal,4.742383757185604,2.0,Good,Yes,False,False,False,True,1,2025,0,False,False,False,True,False,False,False,True,False,False,False,True
+969,1210,2025-08-26,149,4.0,119.26001772887857,Cash,2.8404671053289787,1.0,Bad,No,False,True,False,False,0,2025,0,False,True,False,False,False,True,False,False,False,True,False,False
+970,1788,2025-08-27,171,5.0,99.6125518592487,Cash,2.318864576966322,3.0,,Yes,False,True,False,False,1,2025,0,False,True,False,False,False,True,False,False,False,True,False,False
+971,1734,2025-08-28,139,1.0,87.90439499702602,Cash,8.756126409175742,2.0,,Yes,False,True,False,False,1,2025,0,False,True,False,False,False,True,False,False,False,True,False,False
+972,1668,2025-08-29,158,2.0,122.9472035425702,Credit Card,4.8807704163445775,2.0,Bad,Yes,False,False,True,False,1,2025,0,False,False,True,False,False,False,True,False,False,False,True,False
+973,1584,2025-08-30,105,2.0,56.63171324262871,PayPal,5.085630623180355,5.0,,No,False,False,False,True,0,2025,1,False,False,False,True,False,False,False,True,False,False,False,True
+974,1274,2025-08-31,173,3.0,102.65226805565754,Credit Card,6.381124987871891,3.0,,No,False,False,True,False,0,2025,0,False,False,True,False,False,False,True,False,False,False,True,False
+975,1409,2025-09-01,188,1.0,88.60550580728578,PayPal,2.903130105570543,3.0,,No,False,False,False,True,0,2025,0,False,False,False,True,False,False,False,True,False,False,False,True
+977,1551,2025-09-03,197,1.0,113.93471093308176,Bank Transfer,1.8037369020121448,5.0,Good,Yes,True,False,False,False,1,2025,1,True,False,False,False,True,False,False,False,True,False,False,False
+978,1234,2025-09-04,159,4.0,127.10210467475471,Credit Card,5.945455187884642,2.0,,No,False,False,True,False,0,2025,0,False,False,True,False,False,False,True,False,False,False,True,False
+979,1635,2025-09-05,178,4.0,97.41000867811904,Credit Card,4.024995648018589,3.0,Bad,Yes,False,False,True,False,1,2025,0,False,False,True,False,False,False,True,False,False,False,True,False
+980,1284,2025-09-06,115,3.0,114.16569618012984,PayPal,1.6682401978007486,2.0,Good,Yes,False,False,False,True,1,2025,0,False,False,False,True,False,False,False,True,False,False,False,True
+981,1664,2025-09-07,104,1.0,89.87296193057811,Credit Card,7.36512893992342,1.0,,No,False,False,True,False,0,2025,0,False,False,True,False,False,False,True,False,False,False,True,False
+982,1658,2025-09-08,122,2.0,143.96068621540894,Credit Card,8.099051355008198,4.0,Average,No,False,False,True,False,0,2025,1,False,False,True,False,False,False,True,False,False,False,True,False
+983,1707,2025-09-09,152,6.0,123.34157480677432,PayPal,4.414224864378595,1.0,Good,Yes,False,False,False,True,1,2025,0,False,False,False,True,False,False,False,True,False,False,False,True
+984,1172,2025-09-10,166,3.0,98.281974642507,Cash,1.8214017406349328,5.0,Bad,Yes,False,True,False,False,1,2025,1,False,True,False,False,False,True,False,False,False,True,False,False
+985,1723,2025-09-11,171,2.0,115.37525649362615,PayPal,5.422253590795759,2.0,,No,False,False,False,True,0,2025,0,False,False,False,True,False,False,False,True,False,False,False,True
+986,1301,2025-09-12,172,1.0,98.3590342948456,Credit Card,6.566825802871584,5.0,,Yes,False,False,True,False,1,2025,1,False,False,True,False,False,False,True,False,False,False,True,False
+987,1822,2025-09-13,105,3.0,85.28350582479848,Credit Card,5.484270121576143,1.0,Bad,Yes,False,False,True,False,1,2025,0,False,False,True,False,False,False,True,False,False,False,True,False
+988,1000,2025-09-14,139,1.0,104.27773339782136,Credit Card,6.944281397259822,1.0,Bad,Yes,False,False,True,False,1,2025,0,False,False,True,False,False,False,True,False,False,False,True,False
+989,1138,2025-09-15,179,3.0,130.16503740459865,PayPal,1.1685417402127407,3.0,Good,Yes,False,False,False,True,1,2025,0,False,False,False,True,False,False,False,True,False,False,False,True
+990,1707,2025-09-16,179,3.0,65.28849265254513,Cash,3.729705434433682,3.0,Bad,Yes,False,True,False,False,1,2025,0,False,True,False,False,False,True,False,False,False,True,False,False
+992,1731,2025-09-18,189,1.0,99.6125518592487,PayPal,5.983693453270056,1.0,,Yes,False,False,False,True,1,2025,0,False,False,False,True,False,False,False,True,False,False,False,True
+993,1867,2025-09-19,122,3.0,94.15137834419124,Bank Transfer,6.453182742942752,4.0,Bad,No,True,False,False,False,0,2025,1,True,False,False,False,True,False,False,False,True,False,False,False
+994,1441,2025-09-20,189,3.0,92.37738568931094,Cash,4.498341579051805,5.0,Good,Yes,False,True,False,False,1,2025,1,False,True,False,False,False,True,False,False,False,True,False,False
+995,1966,2025-09-21,189,3.0,119.58568857223192,PayPal,5.7204524463179816,4.0,Average,Yes,False,False,False,True,1,2025,1,False,False,False,True,False,False,False,True,False,False,False,True
+996,1915,2025-09-22,119,6.0,144.33600936379543,Bank Transfer,7.531944766142386,3.0,Good,Yes,True,False,False,False,1,2025,0,True,False,False,False,True,False,False,False,True,False,False,False
+999,1242,2025-09-25,109,5.0,99.6125518592487,Bank Transfer,5.574646053202319,3.0,Average,No,True,False,False,False,0,2025,0,True,False,False,False,True,False,False,False,True,False,False,False
+1000,1870,2025-09-26,111,3.0,99.6125518592487,Credit Card,3.762784458970276,4.0,Average,No,False,False,True,False,0,2025,1,False,False,True,False,False,False,True,False,False,False,True,False
